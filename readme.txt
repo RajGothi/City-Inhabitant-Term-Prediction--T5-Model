@@ -1,9 +1,3 @@
-Name:
-Manas Jhalani, 22M0806
-Raj Gothi, 22M2160
-Prathamesh Karandikar, 22M1155​
- 
-
 Tools:
 pip install sentencepiece
 pip install transformers
