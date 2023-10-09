@@ -1,0 +1,3360 @@
+Suffix,City,Inhabitant_term,Country
+ite,Tokyo,Tokyoite,Japan
+n,Jakarta,Jakartan,Indonesia
+kar,Mumbai,Mumbaikar,India
+n,Manila,Manilan,Philippines
+nese,Shanghai,Shanghainese,China
+ite,Seoul,Seoulite,South Korea
+ene,Cairo,Cairene,Egypt
+iya,Dhaka,Dhakaiya,Bangladesh
+n,Kolkata,Kolkatan,India
+ian,Bangkok,Bangkokian,Thailand
+ite,Moscow,Muscovite,Russia
+ian,Lagos,Lagosian,Nigeria
+ite,Istanbul,Istanbulite,Turkey
+ite,Karachi,Karachiite,Pakistan
+an,Bangalore,Bangalorean,India
+i,Tehran,Tehrani,Iran
+ite,Chennai,Chennaiite,India
+i,Lahore,Lahori,Pakistan
+er,London,Londoner,United Kingdom
+ian,Paris,Parisian,France
+i,Hyderabad,Hyderabadi,India
+ese,Tianjin,Tianjinese,China
+ese,Wuhan,Wuhanese,China
+nese,Hangzhou,Hangzhounese,China
+n,Luanda,Luandan,Angola
+an,Chicago,Chicagoan,United States
+er,Nanjing,Nanjinger,China
+an,Hanoi,Hanoian,Vietnam
+kar,Pune,Punekar,India
+i,Ahmedabad,Amdavadi,India
+n,Bogota,Bogotan,Colombia
+ese,Khartoum,Khartoumese,Sudan
+er,Hong Kong,Hongkonger,Hong Kong
+s,Santiago,Santiaguinos,Chile
+i,Surat,Surati,India
+i,Baghdad,Baghdadi,Iraq
+an,Singapore,Singaporean,Singapore
+i,Allahbad,Allahabadi,India
+ese,Dalian,Dalianese,China
+an,Miami,Miamian,United States
+ite,Dallas,Dallasite,United States
+ian,Houston,Houstonian,United States
+n,Giza,Gizan,Egypt
+an,Nairobi,Nairobian,Kenya
+n,Philadelphia,Philadelphian,United States
+n,Ankara,Ankaran,Turkey
+nian,Toronto,Torontonian,Canada
+nese,Suzhou,Suzhounese,China
+no,Belo Horizonte,belo-horizontino,Brazil
+thar,Yangoon,Yangonthar,Myanmar
+n,Atlanta,Atlantan,United States
+ais,Abidjan,Abidjanais,CÃ´te d'Ivoire
+n,Alexandria,Alexandrian,Egypt
+n,Barcelona,Barcelonan,Spain
+er,Berlin,Berliner,Germany
+ian,Izmir,Izmirian,Turkey
+i,Kabul,Kabuli,Afghanistan
+i,Mogadishu,Mogadishawi,Somalia
+ese,Luzhou,Luzhouese,China
+ian,Boston,Bostonian,United States
+nese,Shijiazhuang,Shijiazhuangnese,China
+i,Amman,Ammani,Jordan
+ite,Harbin,Harbinite,China
+ese,Medan,Medanese,Indonesia
+er,Detroit,Detroiter,United States
+er,Montreal,Montrealer,Canada
+ian,Busan,Busanian,South Korea
+ite,Seattle,Seattleite,United States
+i,Lucknow,Lakhnawi,India
+i,Mashhad,Mashhadi,Iran
+an,Dubai,Dubaian,United Arab Emirates
+an,San Francisco,San Franciscan,United States
+i,Faisalabad,Faisalabadi,Pakistan
+an,San Diego,San Diegan,United States
+i,Jaipur,Jaipuri,India
+ian,Athens,Athenian,Greece
+an,Addis Ababa,Addis Ababan,Ethiopia
+nese,Brasilia,Brasiliense,Brazil
+er,Budapest,Budapester,Hungary
+an,Kyiv,Kyivan,Ukraine
+ni,Sanaa,Sanaani,Yemen
+an,Rome,Roman,Italy
+ite,Pyongyang,Pyongyangite,North Korea
+an,Minneapolis,Minneapolitan,United States
+an,Malang,Malangan,Indonesia
+er,Stuttgart,Stuttgarter,Germany
+ite,Brooklyn,Brooklynite,United States
+a,Guayaquil,Guayaquilea,Ecuador
+an,Lisbon,Lisboan,Portugal
+ite,Cawnpore,Kanpurite,India
+n,Tampa,Tampan,United States
+ite,Denver,Denverite,United States
+ese,Medellin,Medellinense,Colombia
+i,Mirzapur,Mirzapuri,India
+er,Hamburg,Hamburger,Germany
+ite,Daegu,Daeguite,South Korea
+nese,Fortaleza,Fortalezense,Brazil
+kar,Nagpur,Nagpurkar,India
+ite,Queens,Queensite,United States
+n,Accra,Accran,Ghana
+i,Ghaziabad,Ghaziabadi,India
+ite,Brisbane,Brisbanite,Australia
+ian,Baku,Bakuvian,Azerbaijan
+ite,Vancouver,Vancouverite,Canada
+ense,Manaus,Manauense,Brazil
+an,Baltimore,Baltimorean,United States
+an,Harare,Hararean,Zimbabwe
+an,Las Vegas,Las Vegan,United States
+er,Phnom Penh,Phnom Penher,Cambodia
+av,St. Louis,St.Louisan,United States
+ian,Vadodara,Barodian,India
+ite,Vishakhapatnam,Vizagite,India
+no,Quito,Quiteno,Ecuador
+n,Tijuana,Tijuanan,Mexico
+i,Indore,Indori,India
+ese,Vienna,Viennese,Austria
+ese,Ecatepec,Ecatepequense,Mexico
+an,Orlando,Orlandoan,United States
+ine,Aleppo,Aleppine,Syria
+an,Sacramento,Sacramentan,United States
+ian,San Antonio,San Antonian,United States
+kar,Thane,Thanekar,India
+er,Bucharest,Bucharester,Romania
+no,Curitiba,Curitibano,Brazil
+i,Multan,Multani,Pakistan
+ian,Warsaw,Varsovian,Poland
+i,Bhopal,Bhopali,India
+ene,Damascus,Damascene,Syria
+ian,Brussels,Brusselian,Belgium
+no,Montevideo,montevideano,Uruguay
+er,Pittsburgh,Pittsburgher,United States
+an,Cincinnati,Cincinnatian,United States
+i,Mosul,Mosuli,Iraq
+ite,Manhattan,Manhattanite,United States
+ense,Tegucigalpa,tegucigalpense,Honduras
+er,Cleveland,Clevelander,United States
+i,Mecca,Makki,Saudi Arabia
+ense,Recife,Recifense,Brazil
+tan,Indianapolis,Indianapolitan,United States
+ite,Austin,Austinite,United States
+an,Semarang,Semarangan,Indonesia
+vi,Ludhiana,Ludhianvi,India
+er,Stockholm,Stockholmer,Sweden
+no,Puebla,Poblano,Mexico
+i,Jamshedpur,Jamshedpuri,India
+i,Tabriz,Tabrizi,Iran
+n,Sofia,Sofian,Bulgaria
+an,Charlotte,Charlottean,United States
+kar,Nasik,Nashikkar,India
+ense,Porto Alegre,Porto-alegrense,Brazil
+n,Valencia,Valencian,Venezuela
+an,Abu Dhabi,Abu Dhabian,United Arab Emirates
+no,Zapopan,Zapopano,Mexico
+ite,Bronx,Bronxite,United States
+er,Amsterdam,Amsterdammer,Netherlands
+ite,Kharkiv,Kharkivite,Ukraine
+iya,Khulna,Khulnaiya,Bangladesh
+i,Faridabad,Faridabadi,India
+ense,Goiania,goianiense,Brazil
+ian,Belgrade,Belgradian,Serbia
+ese,Milan,Milanese,Italy
+kar,Aurangabad,Aurangabadkar,India
+er,Copenhagen,Copenhagener,Denmark
+er,Auckland,Aucklander,New Zealand
+ese,Makassar,Makassarese,Indonesia
+an,Milwaukee,Milwaukeean,United States
+ian,Rajkot,Rajkotian,India
+er,Prague,Praguer,Czechia
+ero,Barranquilla,Barranquillero,Colombia
+ense,Guarulhos,guarulhense,Brazil
+an,Mandalay,Mandalayan,Myanmar
+an,Adelaide,Adelaidean,Australia
+ense,Porto,Portuense,Portugal
+an,Rosario,Rosarían,Argentina
+an,Helsinki,Helsinkian,Finland
+i,Jabalpur,Jabalpuri,India
+i,Ahvaz,Ahvazi,Iran
+an,Honduras,"	
+Honduran",United States
+ian,Calgary,Calgarian,Canada
+kar,Vasai,Vasaikar,India
+ian,Jacksonville,Jacksonvillian,United States
+i,Varanasi,Banarasi,India
+awi,Hargeysa,Hargeysaawi,Somalia
+i,Medina,Medani,Saudi Arabia
+i,Srinagar,Srinagari,India
+er,Dublin,Dubliner,Ireland
+ian,Ulsan,Ulsanian,South Korea
+iya,Amritsar,Amritsariya,India
+er,Salt Lake,Salt Laker,United States
+ian,Aligarh,Aligarian,India
+ili,Tbilisi,Tbiliseli,Georgia
+ian,Guwahati,Guwahatian,India
+i,Fes,Fassi,Morocco
+n,Sevilla,Sevillan,Spain
+ense,Mexicali,Mexicalense,Mexico
+ian,Nashville,Nashvillian,United States
+si,Yerevan,Yerevantsi,Armenia
+ite,Ranchi,Ranchite,India
+ian,Chandigarh,Chandigarhian,India
+ian,Edmonton,Edmontonian,Canada
+ite,Raleigh,Raleighite,United States
+an,Barquisimeto,Barquisimetan,Venezuela
+an,Voronezh,Voronezhan,Russia
+ian,Changwon,Changwonian,South Korea
+ian,Bogor,Bogorian,Indonesia
+i,Jodhpur,Jodhpuri,India
+ense,Managua,managuense,Nicaragua
+ense,Maceio,Maceioense,Brazil
+ian,Louisville,Louisvillian,United States
+n,Odesa,Odesan,Ukraine
+i,Islamabad,Islamabadi,Pakistan
+i,Raipur,Raipuri,India
+no,Arequipa,Arequipeno,Peru
+n,Quetta,Quettan,Pakistan
+n,Ottawa,Ottawan,Canada
+no,Asmara,Asmarino,Eritrea
+ite,Jerusalem,Jerusalemite,Israel
+an,Riga,Rigan,Latvia
+er,Zagreb,Zagreber,Croatia
+ian,Vilnius,Vilnian,Lithuania
+er,Winnipeg,Winnipegger,Canada
+er,Quebec ,Quebecer,Canada
+an,Skopje,Skopjan,Macedonia
+an,Djibouti,Djiboutian,Djibouti
+an,San Salvador,Sansalvadoran,El Salvador
+ar,The Hague,Hagenaar,Netherlands
+no,Asuncion,Asunceno,Paraguay
+an,Bratislava,Bratislavan,Slovakia
+er,Tallinn,Tallinner,Estonia
+i,Beirut,Beiruti,Lebanon
+ian,Cape Town,Capetonian,South Africa
+s,Tirana,Tiranas,Albania
+an,Sarajevo,Sarajevan,Bosnia and Herzegovina
+ian,Wellington,Wellingtonian,New Zealand
+n,Nicosia,Nicosian,Cyprus
+ense,Sucre,Sucrense,Bolivia
+ian,Gibraltar,Gibraltarian,Gibraltar
+no,Malabo,Malabeno,Equatorial Guinea
+s,Pristina,Prishtinas,Kosovo
+ian,Podgorica,Podgorician,Montenegro
+ese,Bern,Bernese,Switzerland
+er,Luxembourg,Luxembourger,Luxembourg
+is,Cayenne,Cayennais,French Guiana
+an,Monaco,Monacan,Monaco
+ese,San Marino,San marinese,San Marino
+ian,Vatican City,Vaticanian,Vatican City
+ian,Bareilly,Bareillian,India
+n,Oklahoma City,Oklahoman,United States
+yn,Dnipro,Dniprianyn,Ukraine
+no,Zamboanga City,Zamboangeano,Philippines
+er,Bridgeport,Bridgeporter,United States
+no,Morelia,Moreliano,Mexico
+no,Cebu City,Cebuano,Philippines
+an,Coimbatore,Coimbatorean,India
+ense,Teresina,teresinense,Brazil
+i,Solapur,Solapuri,India
+ian,Tangier,Tangierian,Morocco
+i,Kermanshah,Kermashahi,Iran
+ense,Aguascalientes,Aguascalentense,Mexico
+i,Marrakech,Marrakshi,Morocco
+ani,Donetsk,Donchyani,Ukraine
+ian,New Orleans,New Orleanian,United States
+ite,Trichinopoly,Tiruchiite,India
+ense,Naucalpan de Juarez,Naucalpense,Mexico
+ero,Santiago de Cuba,santiaguero,Cuba
+ense,Padang,Padangnese,Indonesia
+no,Santiagueno,santiagueano,Chile
+ian,Fort Worth,Fort Worthian,United States
+ite,Hartford,Hartfordite,United States
+no,Taguig City,Taguigeano,Philippines
+esne,Cancun,Cancunense,Mexico
+i,Moradabad,Moradabadi,India
+ese,Turin,Turinese,Italy
+ian,Tucson,Tucsonian,United States
+iya,Jalandhar,Jalandhariya,India
+ais,Marseille,Marseillais,France
+ense,Saltillo,Saltillense,Mexico
+ense,Hermosillo,Hermosillense,Mexico
+no,Cochabamba,Cochabambino,Bolivia
+ite,Bhubaneshwar,Bhubaneswarite,India
+an,Honolulu,Honolulan,United States
+an,Thessaloniki,Thessalonian,Greece
+ense,Culiacan,Culiacanense,Mexico
+n,Omaha,Omahan,United States
+no,Queretaro,Queretano,Mexico
+ian,Krakow,Cracovian,Poland
+ense,Abaete,abaetense,Brazil
+no,Palermo,Palermitano,Colombia
+an,El Paso,El Pasoan,United States
+ine,Bilbao,Bilbaine,Spain
+i,Homs,Homsi,Syria
+ian,Nottingham,Nottinghamian,United Kingdom
+an,Albuquerque,Albuquerquean,United States
+vi,Patiala,Patialvi,India
+n,Samarinda,Samarindan,Indonesia
+no,Cucuta,Cucuteano,Colombia
+kar,Dhule,Dhulekar,India
+awi,Burco,Burcaawi,Somalia
+ite,Trivandrum,Trivandrumite,India
+ense,Nampula,Nampulense,Mozambique
+i,Kerman,Kermani,Iran
+n,Mississauga,Mississaugan,Canada
+an,Fresno,Fresnan,United States
+n,Tulsa,Tulsan,United States
+ni,Latakia,Latakani,Syria
+no,Dasmarinas,Dasmarineano,Philippines
+ite,Warangal,Warangalite,India
+awi,Hamah,Hamawi,Syria
+ian,Vellore,Vellorian,India
+ese,Macau,Macanese,Macau
+ite,Kochi,Kochite,India
+i,Gorakhpur,Gorakhpuri,India
+n,Zaragoza,Zaragozan,Spain
+ian,Wroclaw,Wroclawian,Poland
+eano,Acapulco de Juarez,Acapulqueano,Mexico
+no,Murcia,Murciano,Spain
+ense,Tlaquepaque,Tlaquepaquense,Mexico
+ense,Villavicencio,Villavicense,Colombia
+ense,Tlalnepantla,Tlalnepantlense,Mexico
+ian,Sargodha,Sargodhian,Pakistan
+ense,Durango,Duranguense,Mexico
+ian,Guntur,Gunturian,India
+no,Sorocaba,sorocabano,Brazil
+i,Bhavnagar,Bhavnagari,India
+ite,Noida,Noidite,India
+er,Rotterdam,Rotterdammer,Netherlands
+ian,Benghazi,Benghazian,Libya
+no,Chimalhuacan,Chimalhuacano,Mexico
+an,Mangalore,Mangalorean,India
+ian,Glasgow,Glaswegian,United Kingdom
+an,Las Pinas City,Las Pinan,Philippines
+ian,Knoxville,Knoxvillian,United States
+ite,Jurong,Jurong,China
+er,Gothenburg,Gothenburger,Sweden
+ese,Kuantan,Kuantanese,Malaysia
+ite,Raurkela,Rourkelite,India
+ia,Cuttack,Katakia,India
+ian,Bacolod,Bacolodian,Philippines
+ense,Uberlandia,Uberlandense,Brazil
+ian,Tumkur,Tumkurian,India
+ite,Durban,Durbanite,South Africa
+ense,Irapuato,Irapuatense,Mexico
+ian,Brampton,Bramptonian,Canada
+ian,Bakersfield,Bakersfieldian,United States
+no,Cuiaba,cuiabano,Brazil
+ese,Genoa,Genoese,Italy
+ian,Durgapur,Durgapurian,India
+ian,Bristol,Bristolian,United Kingdom
+ian,Asansol,Asansolians,India
+kar,Kolhapur,Kolhapurkar,India
+an,Nellore,Nellorean,India
+kar,Nanded,Nandedkar,India
+kar,Amravati,Amravatikar,India
+ense,Londrina,Londrinense,Brazil
+ite,Akron,Akronite,United States
+i,Samarkand,Samarkandi,Uzbekistan
+ense,Ixtapaluca,Ixtapaluquense,Mexico
+no,Ibague,Ibaguereano,Colombia
+ano,Salta,Salteano,Argentina
+i,Yazd,Yazdi,Iran
+i,Ardabil,Ardabili,Iran
+ian,Agartala,Agartalian,India
+an,Ndola,Ndolean,Zambia
+no,Soacha,Suachuno,Colombia
+tan,Sevastopol,Sevastopolitan,Ukraine
+ite,Pohang,Pohangite,South Korea
+er,Sheffield,Sheffielder,United Kingdom
+i,Aden,Adeni,Yemen
+an,Kitwe,Kitwean,Zambia
+no,Monteria,Monteriano,Colombia
+no,Imus,Imuseano,Philippines
+ite,Jammu,Jammuites,India
+ian,Tinnevelly,Tirunelvelian,India
+an,Johor Bahru,Johor Bahruans,Malaysia
+ian,Toulouse,Toulousian,France
+er,Staten Island,Staten Islander,United States
+ite,Belgaum,Belgaumites,India
+i,Sylhet,Sylheti,Bangladesh
+i,Jamnagar,Jamnagari,India
+tan,Florianopolis,Florianopolitan,Brazil
+awi,Berbera,Barbaraawi,Somalia
+ite,Worthing,Worthingite,United Kingdom
+ano,Mandaluyong City,Mandaleano,Philippines
+er,Harrisburg,Harrisburger,United States
+er,Salt Lake City,Salt Laker,United States
+ense,Lanus,lanusense,Argentina
+nese,Manado,Manadonese,Indonesia
+ite,Reno,Renoites,United States
+kar,Jalgaon,Jalgaonkar,India
+er,Pyeongtaek,Pyeongtaeker,South Korea
+an,Kurnool,Kurnoolian,India
+er,Little Rock,Little Rocker,United States
+an,Melaka,Malaccan,Malaysia
+ese,Bandung,Bandungese,Indonesia
+er,Zurich,Zuricher,Switzerland
+ite,Spokane,Spokanite,United States
+kar,Sangli,Sanglikar,India
+er,Oakland,Oaklander,United States
+no,Manizales,Manizaleano,Colombia
+ano,Veracruz,Veracruzano,Mexico
+ano,Cusco,cuzqueano,Peru
+ano,Xalapa,Xalapeano,Mexico
+ian,Trabzon,Trapezian,Turkey
+kar,Akola,Akolekar,India
+an,Aomori,Aomorian,Japan
+an,Boise,Boisean,United States
+ite,Winston-Salem,Winston-Salemite,United States
+ite,Seremban,Serembanite,Malaysia
+ense,Binan,Biananense,Philippines
+ense,Tepic,Tepicense,Mexico
+i,Bhagalpur,Bhagalpuri,India
+ian,Bellary,Ballarians,India
+ero,Maracay,Maracayero,Venezuela
+an,Chattanooga,Chattanoogan,United States
+ese,Bologna,Bolognese,Italy
+ian,Kakinada,Kakinadian,India
+iya,Darbhanga,Darbhangiya,India
+chanin,Plovdiv,Plovdivchanin,Bulgaria
+ano,Cainta,Cainteano,Philippines
+ine,Florence,Florentine,Italy
+ese,Taunggyi,Taunggese,Myanmar
+ense,Betim,Betinense,Brazil
+ano,Iquitos,Iquiteano,Peru
+ian,Scranton,Scrantonian,United States
+iya,Rohtak,Rohtakiya,India
+on,Butuan,Butuanon,Philippines
+no,Petare,Petareano,Venezuela
+ense,Bauru,bauruense,Brazil
+no,Anapolis,Anapolino,Brazil
+ian,Coventry,Coventrian,United Kingdom
+on,Iligan,Iliganon,Philippines
+er,Youngstown,Youngstowner,United States
+no,Cabuyao,Cabuyeano,Philippines
+er,Utrecht,Utrechter,Netherlands
+ian,Pensacola,Pensacolian,United States
+eli,Pokhara,Pokhareli,Nepal
+ite,Sasaram,Sasaramite,India
+no,Corrientes,correntino,Argentina
+no,Neiva,Neivano,Colombia
+kar,Ahmadnagar,Ahmednagarkar,India
+ian,Antofagasta,Antofagastian,Chile
+is,Nice,Nicois,France
+tan,Simferopol,Simferopolitan,Ukraine
+iya,Alwar,Alwariya,India
+no,Alicante,alicantino,Spain
+ian,Huntsville,Huntsvillian,United States
+ense,Petrolina,petrolinense,Brazil
+iya,Sambalpur,Sambalpuriya,India
+an,Tampere,Tamperean,Finland
+i,Debrecen,debreceni,Hungary
+ense,Pelotas,Pelotense,Brazil
+ite,Ann Arbor,Ann Arborite,United States
+i,Bijapur,Bijapuri,India
+an,Sukabumi,Sukabumian,Indonesia
+kar,Ratnagiri,Ratnagirikar,India
+ese,Bari,Barese,Italy
+is,Nantes,Nantais,France
+no,Coatzacoalcos,Coatzacoalqueano,Mexico
+karan,Thrissur,Thrissurkaran,India
+ian,Asheville,Ashevillan,United States
+no,Tanza,Tanzeano,Philippines
+i,Kasur,Kasuri,Pakistan
+er,Mannheim,Mannheimer,Germany
+kar,Panvel,Panvelkar,India
+ite,Lansing,Lansingite,United States
+no,Zarzal,Zarzaleno,Colombia
+ese,Catania,Catanese,Italy
+kar,Parbhani,Parbhanikar,India
+ense,Paulista,paulistense,Brazil
+n,Oaxaca,Oaxacan,Mexico
+n,Armenia,Armenian,Colombia
+ense,Coacalco,Coacalquense,Mexico
+ian,Montpellier,Montpellirian,France
+ian,Stockport,Stopfordian,United Kingdom
+an,Tampico,Tampican,Mexico
+i,Bihar,Bihari,India
+ano,Petropolis,petropolitano,Brazil
+no,Navotas,Navoteano,Philippines
+n,Comilla,Comillian,Bangladesh
+ian,Bradford,Bradfordian,United Kingdom
+no,Tagum,Tagumeano,Philippines
+an,Vigo,	Vigoan,Spain
+ian,Ismailia,Ismailian,Egypt
+ois,Strasbourg,Strasbourgeois,France
+ite,Anchorage,Anchoragite,United States
+er,Graz,Grazer,Austria
+i,Karimnagar,Karimnagari,India
+er,South Bend,South Bender,United States
+i,Dewas,Dewasi,India
+ano,Sincelejo,Sincelejano,Colombia
+ano,Tacna,Tacneano,Peru
+hin,Lucena,Lucenahin,Philippines
+n,Bukhara,Bukharan,Uzbekistan
+enaar,Maastricht,Maastrichtenaar,Netherlands
+i,Farrukhabad,Farrukhabadi,India
+i,Ratlam,Ratlami,India
+i,Szekesfehervar,Szekesfehervari,Hungary
+n,Brahmanbaria,Brahmanbarian,Bangladesh
+ian,Plymouth,Plymothian,United Kingdom
+ser,Bergen,Bergenser,Norway
+ian,Venice,Venetian,Italy
+ano,Olongapo,Olongapeano,Philippines
+ian,Derby,Derbeian,United Kingdom
+ese,Verona,Veronese,Italy
+ense,Gravatai,Gravataiense,Brazil
+ano,Campeche,Campechano,Mexico
+ian,Mawlamyine,Moulmeinian,Myanmar
+on,Tacloban,Taclobanon,Philippines
+ian,Visalia,Visalian,United States
+ite,Katihar,Katiharites,India
+ian,Saskatoon,Saskatonian,Canada
+i,Jessore,Jashorie,Bangladesh
+an,Thoothukudi,Thoothukudian,India
+aar,Eindhoven,Eindhovenaar,Netherlands
+er,Sandnes,Sandneser,Norway
+er,Groningen,Groninger,Netherlands
+karan,Kannur,Kannurkaran,India
+ano,Machala,Machaleano,Ecuador
+n,Granada,Granadan,Spain
+ese,Messina,Messinese,Italy
+ian,Badalona,Badalonian,Spain
+ense,Arapiraca,Arapiraquense,Brazil
+ian,Raichur,Raichurians,India
+ian,Rancagua,Ranquiguaian,Chile
+a,Barisal,Barisailla,Bangladesh
+ano,Toluca,Toluqueano,Mexico
+anon,Ormoc,Ormocanon,Philippines
+er,Singkawang,Singkawanger.,Indonesia
+i,Nadiad,Nadiadi,India
+ese,Navarre,Navarrese,United States
+er,Tilburg,Tilburger,Netherlands
+i,Sambhal,Sambhali,India
+n,Damietta,Damiettan,Egypt
+ense,Oviedo,ovetense,Spain
+ian,Luton,Lutonian,United Kingdom
+ian,Norwich,Norvician,United Kingdom
+ano,Ayacucho,Ayacuchano,Peru
+i,Monghyr,Mungeri,India
+n,Geneva,Genevan,Switzerland
+ense,El Tigre,Tigrense,Venezuela
+ian,Tumaco,Tumaquian,Colombia
+ian,Deltona,Deltonian,United States
+on,Pagadian,Pagadianon,Philippines
+an,Panabo,Panaboan,Philippines
+an,Solihull,Silhillian,United Kingdom
+ite,Yonkers,Yonkersite,United States
+ite,Dindigul,Dindigulite,India
+ino,Talca,Talquino,Chile
+ino,Trieste,Triestino,Italy
+i,Zanzibar,Zanzibari,Tanzania
+an,Amarillo,Amarilloan,United States
+an,Coquimbo,Coquimban,Chile
+ian,Aberdeen,Aberdonians,United Kingdom
+ian,Luxor,Luxorian,Egypt
+ian,Cosenza,Cosentians,Italy
+no,Cajamarca,Cajamarquino,Peru
+ense,Almeria,almerienses,Spain
+ino,Taranto,Tarantino,Italy
+ano,Huanuco,huanuqueano,Peru
+kar,Shrirampur,Shrirampurkar,India
+no,Brescia,Bresciano,Italy
+i,Suhaj,Sohagi,Egypt
+ano,Koronadal,Koronadaleano,Philippines
+er,Trondheim,Trondheimer,Norway
+ense,Guanajuato,Guanajuatense,Mexico
+ian,Hagerstown,Hagerstonian,United States
+ense,Castanhal,castanhalense,Brazil
+ano,Guanare,Guanareano,Venezuela
+ense,Leganes,Leganense,Spain
+no,Valera,Valerano,Venezuela
+i,Jhelum,Jhelumi,Pakistan
+ano,Digos,Digoseano,Philippines
+naar,Breda,Bredanaar,Netherlands
+ense,Getafe,getafense,Spain
+ense,Modena,Modenese,Italy
+er,Basel,Basler,Switzerland
+ite,Geelong,Geelongite,Australia
+kar,Kottayam,Kottayamkar,India
+ense,Cuautitlan,Cuautitlense,Mexico
+aner,Odense,Odenseaner,Denmark
+ais,Toulon,Toulonnais,France
+aar,Nijmegen,Nijmegenaar,Netherlands
+kar,Mahad,Mahadkar,India
+ano,Paita,Paiteano,Peru
+ite,Unnao,Unnaoites,India
+es,Burgos,Burgales,Spain
+an,Cuddalore,Cuddalorean,India
+ero,Alcorcon,alcorconero,Spain
+an,Ontario,Ontarian,United States
+ano,Chetumal,Chetumaleano,Mexico
+ero,Carupano,Carupanero,Venezuela
+ense,Luziania,luzianiense,Brazil
+i,Ratnapura,Ratanpuri,Sri Lanka
+ian,Silchar,Silcharian,India
+i,Bidar,Bidri,India
+ano,Baliuag,Baliwageano,Philippines
+ian,Valsad,Valsadians,India
+er,Haarlem,Haarlemmer,Netherlands
+ite,Adoni,Adonite,India
+ano,Ipiales,Ipialeano,Colombia
+ian,Idlib,Idlibian,Syria
+ite,Kanchipuram,kanchipuramites,India
+an,Kandy,Kandyan,Sri Lanka
+ero,Cienfuegos,Cienfuegueros,Cuba
+no,Tunja,Tunjano,Colombia
+ense,Anaco,Anaquense,Venezuela
+hin,Sariaya,Sariayahin,Philippines
+ian,Chittoor,Chitoorian,India
+ano,Kidapawan,Kidapaweano,Philippines
+ense,Pindamonhangaba,Pindamonhangabense,Brazil
+er,Enschede,Enschedeer,Netherlands
+i,Budaun,Badayuni,India
+er,Amersfoort,Amersfoorter,Netherlands
+si,Livorno,Livornesi,Italy
+ate,Ravenna,Ravennate,Italy
+i,Bharuch,Bharuchi,India
+no,Ilagan,Ilagueano,Philippines
+iya,Pathankot,Pathankotiya,India
+ano,Cagliari,Cagliaritano,Italy
+ian,Nalgonda,Nalgondians,India
+ian,Jorhat,Jorhatian,India
+i,Hajipur,Hajipuri,India
+ian,Dibrugarh,Dibrugarhian,India
+ense,Colima,Colimense,Mexico
+ense,Barreiras,Barreirense,Brazil
+ense,Kanasin,kanasinense,Mexico
+n,Pasadena,Pasadenan,United States
+n,Foggia,Foggians,Italy
+i,Miskolc,miskolci,Hungary
+ois,Nimes,Nimois,France
+ense,Rimini,Riminese,Italy
+i,Szombathely,szombathelyi,Hungary
+ian,Negombo,Negombians,Sri Lanka
+ano,Calapan,Calapeano,Philippines
+an,Larisa,Larissean,Greece
+ian,Abohar,Aboharias,India
+no,Parnaiba,Parnaibano,Brazil
+enser,Aalborg,Aalborgenser,Denmark
+ano,Bocaue,Bocaueano,Philippines
+ite,Shillong,Shillongite,India
+ois,Lausanne,Lausannois,Switzerland
+ra,Paranagua,Parnanguara,Brazil
+ano,Yaritagua,Yaritagueano,Venezuela
+ano,Fusagasuga,fusagasugueano,Colombia
+gian,Dawei,Dawegian,Myanmar
+i,Pakpattan,Pakpattni,Pakistan
+ense,Botucatu,botucatuense,Brazil
+ien,Jacmel,Jacmelien,Haiti
+ense,Garanhuns,garanhuense,Brazil
+eano,Parla,Parleano,Spain
+ano,Salerno,Salernitano,Italy
+ero,Rionegro,Rionegrero,Colombia
+ian,Brighton,Brightonian,United Kingdom
+esi,Ferrara,Ferraresi,Italy
+ite,Guelph,Guelphite,Canada
+n,Guagua,Guaguan,Philippines
+non,Silay,Silaynon,Philippines
+nian,Batticaloa,Batticalonian,Sri Lanka
+nian,Yakima,Yakimanian,United States
+aar,Leiden,Leidenaar,Netherlands
+ero,Tariba,Taribero,Venezuela
+esi,Monza,Monzesi,Italy
+ano,Cagua,cagueano,Venezuela
+ian,Colchester,Colcestrian,United Kingdom
+ense,Porlamar,Porlamarense,Venezuela
+ano,Magangue,Magueano,Colombia
+n,Zacatecas,Zacatecan,Mexico
+n,Kenosha,Kenoshan,United States
+ian,Blackburn,Blackburnian,United Kingdom
+esi,Pescara,Pescaresi,Italy
+ak,Fier,Fierak,Albania
+iya,Ghazipur,Ghazipuriya,India
+seano,Apartado,Apartadoseano,Colombia
+ais,Perpignan,Perpignanais,France
+ais,Orleans,Orleanais,France
+naar,Dordrecht,Dordtenaar,Netherlands
+ense,Charallave,Charallavenses,Venezuela
+ini,Trento,Trentini,Italy
+ense,Votorantim,Votorantinense,Brazil
+esi,Forli,Forlivesi,Italy
+i,Adilabad,Adilabadi,India
+kar,Yavatmal,Yavatmalkar,India
+esi,Sassari,Sassaresi,Italy
+ense,Uba,Ubaense,Brazil
+i,Osmanabad,Osmanabadi,India
+ini,Vicenza,Vicentini,Italy
+ia,Balangir,Bolangiria,India
+nian,Carora,carorenian,Venezuela
+eano,Kawit,Kawiteano,Philippines
+ense,Araruama,Araruamense,Brazil
+ani,Terni,Ternani,Italy
+ense,Parintins,parintinense,Brazil
+eano,Pulilan,Pulileano,Philippines
+er,Winterthur,Winterthurer,Switzerland
+ian,Nawada,Nawadian,India
+i,Muktsar,Muktsari,India
+i,Fasa,Fasa'i,Iran
+eno,Quibor,Quiboreno,Venezuela
+non,Tacurong,Tacurongnon,Philippines
+ian,Quezon,Quezonian,Philippines
+on,Bayugan,Bayuganon,Philippines
+ense,Lingayen,Lingayenense,Philippines
+can,Zilina,zilincan,Slovakia
+as,Ferizaj,Ferizajas,Kosovo
+ian,Salford,Salfordian,United Kingdom
+enc,Reus,Reusenc,Spain
+ian,Moncton,Monctonian,Canada
+ian,Jalpaiguri,Jalpaigurians,India
+er,Thunder Bay,Thunder Bayer,Canada
+ini,Bolzano,bolzanini,Italy
+in,Tiaong,Tiaongin,Philippines
+on,Catbalogan,Catbaloganon,Philippines
+ian,Roubaix,Roubaisian,France
+ense,Vespasiano,vespasianense,Brazil
+an,Ourense,ourensan,Spain
+i,Girona,Gironi,Spain
+ese,Novara,Novarese,Italy
+ien,Nanterre,Nanterriens,France
+ense,Arapongas,araponguense,Brazil
+on,Sindangan,Sindanganon,Philippines
+ino,Piacenza,Piacentino,Italy
+an,Chaguanas,Chaguanans,Trinidad and Tobago
+i,Bahrain,Bahraini,Pakistan
+ian,Charlottesville,Charlottesvillian,United States
+tani,Ancona,Anconetani,Italy
+er,Holland,Hollander,United States
+ian,Kamloops,Kamloopsian,Canada
+ite,Dunedin,Dunedinite,New Zealand
+can,Maribor,Mariborcan,Slovenia
+ian,Kohima,Kohimian,India
+an,Galle,Galleans,Sri Lanka
+i,Janakpur,Janakpuri,Nepal
+kar,Marmagao,Mormugaokar,India
+as,Prizren,Prizrenas,Kosovo
+n,Suceava,sucevean,Romania
+er,Amstelveen,Amstelvener,Netherlands
+ine,Poitiers,Poitevine,France
+ian,Chester,Cestrian,United Kingdom
+nhon,Kalibo,Kalibonhon,Philippines
+eano,Tucupita,Tucupiteano,Venezuela
+er,Purmerend,Purmerender,Netherlands
+ene,Nazareth,Nazarene,Israel
+on,Nabunturan,Nabunturanon,Philippines
+er,Lucerne,Luzerner,Switzerland
+ense,Tecate,Tecatense,Mexico
+ani,Casoria,Casoriani,Italy
+er,Schiedam,Schiedammer,Netherlands
+ense,Silao,silaoense,Mexico
+ase,Elbasan,Elbasanase,Albania
+ese,Lebanon,Lebanese,United States
+ino,Aviles,avilesino,Spain
+ois,Cannes,Cannois,France
+ite,Malappuram,Malappuramite,India
+er,Vlaardingen,Vlaardinger,Netherlands
+ense,Benalmadena,Benalmadenses,Spain
+naar,Spijkenisse,Spijkenissenaar,Netherlands
+ien,Calais,Calaisiens,France
+non,Oroquieta,Oroquietanon,Philippines
+ien,Ajaccio,Ajacciens,France
+ian,Yambol,Yambolian,Bulgaria
+ec,Kumanovo,Kumanovec,Macedonia
+eano,Guaynabo,Guaynabeano,Puerto Rico
+er,Veenendaal,Veenendaler,Netherlands
+no,Moquegua,Moqueguano,Peru
+ense,Rivera,Riverense,Uruguay
+aar,Assen,Assenaar,Netherlands
+esi,Portici,Porticesi,Italy
+esi,Afragola,Afragolesi,Italy
+er,Katwijk,Katwijker,Netherlands
+tini,Potenza,Potentini,Italy
+in,Granollers,granollerin,Spain
+ese,Guayama,Guayameses,Puerto Rico
+ian,Runcorn,Runcornian,United Kingdom
+eano,Latacunga,Latacungueano,Ecuador
+esi,Legnano,Legnanesi,Italy
+ian,Anuradhapura,Anuradhapurian,Sri Lanka
+ino,Coyhaique,Coyhaiquino,Chile
+man,Limerick,Limerickman,Ireland
+ero,Mislata,Mislatero,Spain
+ian,Wellingborough,Wellingburian,United Kingdom
+nser,Vejle,Vejlenser,Denmark
+ense,Tacuarembo,tacuaremboense,Uruguay
+eano,Artemisa,Artemiseano,Cuba
+ly,Yevlax,Yevlakhly,Azerbaijan
+er,Rijswijk,Rijswijker,Netherlands
+ni,Aversa,Aversani,Italy
+n,Chania,Chanian,Greece
+er,Biel,Bieler,Switzerland
+ense,Ushuaia,Ushuaiense,Argentina
+ino,Moyobamba,Moyobambino,Peru
+si,Gallarate,Gallaratesi,Italy
+ian,Florida,Floridian,Argentina
+er,New Brunswick,New Brunswicker,United States
+esi,Ercolano,Ercolanesi,Italy
+as,Gjilan,Gjilanas,Kosovo
+eano,Tulcan,Tulcaneano,Ecuador
+are,Korce,Korcare,Albania
+n,Liberia,Liberian,Costa Rica
+esi,Scafati,Scafatesi,Italy
+ese,Collegno,Collegnese,Italy
+is,Bastia,Bastiais,France
+er,Barendrecht,Barendrechter,Netherlands
+si,Lissone,Lissonesi,Italy
+ite,Vidin,Vidinite,Bulgaria
+are,Ostersund,ostersundare,Sweden
+ani,Campobasso,Campobassani,Italy
+ese,Nichelino,Nichelinese,Italy
+no,Huancavelica,Huancavelicano,Peru
+ian,Inverness,Invernesian,United Kingdom
+ian,Waterford,Waterfordian,Ireland
+enques,Figueras,Figuerenques,Spain
+ais,Talence,Talencais,France
+aar,Schagen,Schagenaar,Netherlands
+esi,Seregno,Seregnesi,Italy
+ian,Worksop,Worksopian,United Kingdom
+ite,Invercargill,Invercargillite,New Zealand
+naar,Kerkrade,Kerkradenaar,Netherlands
+ois,Valenciennes,Valenciennois,France
+lese,Togo,Togolese,Japan
+an,Chorley,Chorlean,United Kingdom
+esi,Rozzano,Rozzanesi,Italy
+er,Thun,Thuner,Switzerland
+ite,Arendal,Arendalite,Norway
+ais,Tarbes,Tarbais,France
+ani,Desio,Desiani,Italy
+er,Beverwijk,Beverwijker,Netherlands
+ite,Matale,Mathalites,Sri Lanka
+ean,Drogheda,Droghedean,Ireland
+ense,Cacem,Cacemense,Portugal
+onian,Ramsgate,Ramsgatonian,United Kingdom
+ian,Coalville,Coalvillian,United Kingdom
+esi,Saronno,Saronnesi,Italy
+enc,Blanes,Blanenc,Spain
+er,Fribourg,Freiburger,Switzerland
+as,Berat,Beratas,Albania
+ense,Puntarenas,Puntarenense,Costa Rica
+awi,Zgharta,Zghartawi,Lebanon
+esi,Ciampino,Ciampinesi,Italy
+ense,Zacatelco,Zacatelquense,Mexico
+esi,Arzano,Arzanesi,Italy
+er,Burjasot,Burjassoter,Spain
+esi,Corsico,Corsichesi,Italy
+kar,Panaji,Ponnjekar,India
+ense,Calpulalpan,Calpulalpense,Mexico
+tan,Annapolis,Annapolitan,United States
+ese,Grugliasco,Grugliaschese,Italy
+n,Montana,Montanan,Bulgaria
+ian,Jordan,Jordanian,Philippines
+esi,Pioltello,Pioltellesi,Italy
+si,Bollate,Bollatesi,Italy
+esi,Brugherio,Brugheresi,Italy
+karan,Attingal,Attingalkaran,India
+ani,Kikinda,Kikindani,Serbia
+an,Brzeg,Brzean,Poland
+si,Limbiate,Limbiatesi,Italy
+ois,Tozeur,Tozeurois,Tunisia
+er,Alacuas,Alaquaser,Spain
+er,Maassluis,Maassluizer,Netherlands
+esi,Angri,Angresi,Italy
+aner,Hillerod,Hillerodaner,Denmark
+er,Chur,Churer,Switzerland
+ois,Ermont,Ermontois,France
+ani,Vrsac,Vrscani,Serbia
+esi,Villaricca,Villaricchesi,Italy
+er,Darwen,Darrener,United Kingdom
+ani,Aosta,Aostani,Italy
+taara,Sestao,sestaotarra,Spain
+ois,Neuchatel,Neuchatelois,Switzerland
+er,Papendrecht,Papendrechter,Netherlands
+er,Bussum,Bussumer,Netherlands
+er,Aldaya,Aldaier,Spain
+ense,Huatabampo,Huatabampense,Mexico
+iz,Sliema,Slimiz,Malta
+esi,Bresso,Bressesi,Italy
+aar,Diemen,Diemenaar,Netherlands
+i,Paiporta,Paiporti,Spain
+iz,Birkirkara,Karkariz,Malta
+ian,Kurunegala,Kurunegalians,Sri Lanka
+i,Salgotarjan,Salgotarjani,Hungary
+er,Molde,Moldenser,Norway
+ano,Pompeu,Pompeano,Brazil
+er,Zug,Zuger,Switzerland
+n,Catarroja,Catarrojan,Spain
+ano,Tomares,Tomareano,Spain
+can,Tecax,Tecaxican,Mexico
+naar,Heemstede,Heemstedenaar,Netherlands
+eano,Camaligan,Camaligueano,Philippines
+esi,Chiavari,Chiavaresi,Italy
+esi,Cardito,Carditesi,Italy
+er,Leiderdorp,Leiderdorper,Netherlands
+non,Siquijor,Siquijodnon,Philippines
+eano,Hunucma,Hunucmeano,Mexico
+esi,Qualiano,Qualianesi,Italy
+ense,Mitu,Mituense,Colombia
+sien,Orly,Orlysien,France
+naar,Oegstgeest,Oegstgeestenaar,Netherlands
+ense,Alboraya,Alborayense,Spain
+an,Mytilini,Mytilenian,Greece
+enser,Hamar,Hamarenser,Norway
+ais,Renens,Renanais,Switzerland
+aar,Voorschoten,Voorschotenaar,Netherlands
+esi,Seriate,Seriatesi,Italy
+ani,Pompei,Pompeiani,Italy
+man,Ennis,Ennisman,Ireland
+ian,Arbroath,Arbroathian,United Kingdom
+ini,Seveso,Sevesini,Italy
+ino,Fray Bentos,fraybentino,Uruguay
+ac,Vukovar,Vukovarac,Croatia
+nian,Truro,Truronian,United Kingdom
+ia,Balasore,Baleswaria,India
+esi,Cormano,Cormanesi,Italy
+ite,Gjirokaster,Gjirokastrite,Albania
+esi,Frattaminore,Frattaminoresi,Italy
+esi,Valmiera,Valmieriesi,Latvia
+esi,Senago,Senaghesi,Italy
+enc,Alfafar,Alfafarenc,Spain
+er,Allschwil,Allschwiler,Switzerland
+er,Aarau,Aarauer,Switzerland
+i,Mosta,Mosti,Malta
+ini,Monserrato,Monserratini,Italy
+an,Palau,Palauan,Mexico
+ini,Arese,Aresini,Italy
+i,Fgura,Fguri,Malta
+esi,Cercola,Cercolesi,Italy
+en,Cran-Gevrier,Cran-Gevriens,France
+er,Alblasserdam,Alblasserdammer,Netherlands
+enc,Calella,Calellenc,Spain
+er,Adliswil,Adliswiler,Switzerland
+kar,Sakri,Sakrikar,India
+ian,Greystones,Greystonian,Ireland
+n,Tlaxcala,Tlaxcalan,Mexico
+ini,Cattolica,Cattolichini,Italy
+ani,Ulcinj,Ulcinjani,Montenegro
+er,Westmount,Westmounter,Canada
+er,Solothurn,Solothurner,Switzerland
+i,Canovellas,Canovelli,Spain
+esi,Brusciano,Bruscianesi,Italy
+n,Pljevlja,Pljevljan,Montenegro
+enc,Albal,Albalenc,Spain
+ese,Masamagrell,Massamagrellese,Spain
+esi,Casandrino,Casandrinesi,Italy
+i,Zabbar,Zabbari,Malta
+iz,Tarxien,Tarxiniz,Malta
+ense,Gines,Ginense,Spain
+ian,Kukes,Kuksian,Albania
+er,Arbon,Arboner,Switzerland
+ite,Bodmin,Bodminite,United Kingdom
+esi,Castellanza,Castellanzesi,Italy
+n,Senglea,Senglean,Malta
+esi,Baranzate,Baranzatesi,Italy
+esi,Varedo,Varedesi,Italy
+iya,Chhapra,Chaprahiya,India
+ian,Bartica,Bartician,Guyana
+enc,Sedavi,Sedavienc,Spain
+esi,Calvizzano,Calvizzanesi,Italy
+esi,Canegrate,Canegratesi,Italy
+esi,Biassono,Biassonesi,Italy
+i,Naxxar,Naxxari,Malta
+ian,Carnoustie,Carnoustian,United Kingdom
+nin,Cetinje,Cetinjanin,Montenegro
+os,Cayey,Cayeyanos,Puerto Rico
+ani,Capodrise,Capodrisani,Italy
+i,Zebbug,Zebbugi,Malta
+er,Meliana,Melianer,Spain
+i,Zejtun,Zejtuni,Malta
+ani,Procida,Procidani,Italy
+er,Zaandijk,Zaandijker,Netherlands
+eano,Azogues,Azogueano,Ecuador
+a,Encamp,encampada,Andorra
+ni,Cesa,Cesani,Italy
+eano,Manati,Manatieano,Puerto Rico
+i,Zurrieq,Zurrieqi,Malta
+i,Balzan,Balzani,Malta
+esi,Casapulla,Casapullesi,Italy
+ese,Piedmont,Piemontese,United States
+ni,Montmelo,Montmeloni,Spain
+nos,Reinosa,Reinosanos,Spain
+i,Birzebbuga,Birzebbugi,Malta
+n,Siparia,Siparian,Trinidad and Tobago
+i,Mellieha,Melliehi,Malta
+er,Sarnen,Sarner,Switzerland
+eano,Coamo,Coameano,Puerto Rico
+iz,Hamrun,Hamruniz,Malta
+nin,Tivat,Tivtanin,Montenegro
+ian,Kirkwall,Kirkwallian,United Kingdom
+ci,Rozaje,Rozajci,Montenegro
+awi,Siggiewi,Siggiewi,Malta
+n,Dangriga,Dangrigan,Belize
+er,Glarus,Glarner,Switzerland
+i,Ghaxaq,Ghaxaqi,Malta
+n,Lija,Lijan,Malta
+i,Xaghra,Xaghri,Malta
+i,Nadur,Naduri,Malta
+iz,Iklin,Ikliniz,Malta
+enc,Ordino,Ordinenc,Andorra
+i,Coka,Cokani,Serbia
+iz,Kalkara,Kalkariz,Malta
+iz,Floriana,Furjaniz,Malta
+n,Gudja,Gudjan,Malta
+in,Dingli,Dinglin,Malta
+i,Gharghur,Gharghuri,Malta
+enc,Canillo,canillenc,Andorra
+i,Xewkija,Xewki,Malta
+i,Imtarfa,Mtarfi,Malta
+i,Xghajra,Xghajri,Malta
+n,Qrendi,Qrendin,Malta
+iz,Ghajnsielem,Ghajnsielimiz,Malta
+i,Sannat,Sannati,Malta
+i,Kercem,Kercemi,Malta
+i,Munxar,Munxari,Malta
+ense,Picos,Picosense,Cabo Verde
+i,Ghasri,Ghasri,Malta
+ese,Udine,Udinese,Italy
+karan,Tellicherry,Thalasserikaran,India
+esi,Andria,Andriesi,Italy
+n,Tinsukia,Tinsukian,India
+wasi,Dhar,Dharwasi,India
+ganon,Oton,Ogtonganon,Philippines
+non,Bislig,Bisliganon,Philippines
+ini,Arezzo,Aretini,Italy
+kar,Karwar,Karwarkar,India
+ense,Trelew,Trelewense,Argentina
+eana,Jamundi,Jamundeana,Colombia
+te,Cesena,Cesenate,Italy
+k,Greece,Greek,United States
+ense,Caieiras,Caieirense,Brazil
+an,Sivakasi,Sivakasian,India
+esi,Pesaro,Pesaresi,Italy
+an,Vaniyambadi,Vaniyambadian,India
+ese,Lecce,Leccese,Italy
+ense,Guaiba,guaibense,Brazil
+ni,Barletta,Barlettani,Italy
+ini,Alessandria,Alessandrini,Italy
+enaar,Helmond,Helmondenaar,Netherlands
+ano,Kabacan,Kabaqueano,Philippines
+ano,Mayaguez,Mayagzezano,Puerto Rico
+er,Hilversum,Hilversummer,Netherlands
+naar,Oss,Ossenaar,Netherlands
+ino,Rafaela,rafaelino,Argentina
+ense,Lavras,lavrense,Brazil
+no,Funza,Funzano,Colombia
+er,Southport,Sandgrounder,United Kingdom
+no,Pisa,Pisano,Italy
+ense,Sahagun,sahagunense,Colombia
+ese,Pistoia,Pistoiese,Italy
+eano,Mijas,Mijeano,Spain
+eano,Polangui,Polangueano,Philippines
+ite,Waukegan,Waukeganite,United States
+esi,Lucca,Lucchesi,Italy
+ense,Cantaura,Cantaurense,Venezuela
+aar,Heerlen,Heerlenaar,Netherlands
+kar,Madgaon,Madgaonkar,India
+es,Montelibano,Montelibanes,Colombia
+ense,Maiquetia,Maiquetiense,Venezuela
+eano,Cipolletti,cipolleano,Argentina
+ini,Brindisi,Brindisini,Italy
+ense,Itabaiana,itabaianense,Brazil
+ino,Chiguayante,Chiguayantino,Chile
+nian,Muncie,Munsonian,United States
+eano,Tagaytay,Tagaytayeano,Philippines
+ani,Treviso,Trevisani,Italy
+ano,Guinobatan,Guinobateano,Philippines
+ense,Cacoal,cacoalense,Brazil
+eano,Chiquinquira,Chiquinquireano,Colombia
+ense,Guanambi,guanambiense,Brazil
+ois,Brossard,Brossardois,Canada
+non,Dapitan,Dapitanon,Philippines
+n,Torrevieja,Torreviejan,Spain
+eano,Chigorodo,Chigorodoseano,Colombia
+esi,Cerete,Ceretesi,Colombia
+ense,Ijui,Ijuiense,Brazil
+es,Pontevedra,pontevedres,Spain
+ean,Chingleput,Chengalpattean,India
+ese,Marsala,Marsalese,Italy
+ote,Katerini,Kateriniote,Greece
+ense,Sorriso,sorrisense,Brazil
+ian,Hengelo,Hengolian,Netherlands
+ani,Grosseto,Grossetani,Italy
+ini,Varese,Varesini,Italy
+no,Orihuela,Oriolano,Spain
+bashi,Bolpur,Bolpurbashi,India
+n,Uvinza,Uvinzan,Tanzania
+eano,Valdemoro,Valdemoreano,Spain
+ian,Arsikere,Arsikerian,India
+esi,Fiumicino,Fiumicinesi,Italy
+eano,Calarca,Calarqueano,Colombia
+ino,Huaral,Huaralino,Peru
+ois,Beziers,Biterrois,France
+i,Basavakalyan,Basavakalyani,India
+er,Roosendaal,Roosendaler,Netherlands
+ino,Palencia,Palentino,Spain
+ense,Unai,Unaiense,Brazil
+n,Gandia,Gandian,Spain
+ni,Caserta,Casertani,Italy
+n,Fazilka,Fazilkan,India
+awi,Jablah, Jablawi,Syria
+giano,Asti,Astigiano,Italy
+ite,Wyoming,Wyomingite,United States
+ense,Ibiuna,ibiunense,Brazil
+i,Bethlehem,Bethlehemi,United States
+eanos,Fajardo,FajardeÃ±os,Puerto Rico
+ense,Itapira,Itapirense,Brazil
+kar,Ambajogai,Ambajogaikar,India
+esi,Gela,Gelesi,Italy
+aar,Hoorn,Hoornaar,Netherlands
+er,Almelo,Almeloer,Netherlands
+n,Quillota,Quillotan,Chile
+ero,Paterna,Paternero,Spain
+ense,Vinhedo,Vinhedense,Brazil
+ano,Santa Rosa de Cabal,Santarrosano,Colombia
+enser,Esbjerg,Esbjergenser,Denmark
+ano,Bacacay,Bacacayano,Philippines
+in,Catanauan,Catanauanin,Philippines
+esi,Pavia,Pavesi,Italy
+ense,Aracati,aracatiense,Brazil
+hin,Gumaca,Gumacahin,Philippines
+esi,Cremona,Cremonesi,Italy
+nian,Calauag,Calauagenian,Philippines
+kar,Goa,Goenkar,Philippines
+ense,Benidorm,benidormense,Spain
+eano,Cabudare,Cabudareano,Venezuela
+in,Mauban,Maubanin,Philippines
+ite,Wenatchee,Wenatcheeite,United States
+ian,Bundaberg,Bundabergian,Australia
+ense,Cacador,Cacadorense,Brazil
+n,Zenica,Zenican,Bosnia and Herzegovina
+n,Altamura,Altamuran,Italy
+esi,Imola,Imolesi,Italy
+eano,Indang,Indangeano,Philippines
+er,Cannock,Cannocker,United Kingdom
+esne,Zapotlanejo,Zapotlanejense,Mexico
+ino,Sagunto,Saguntino,Spain
+esi,Viterbo,Viterbesi,Italy
+ense,Trapani,Trapanese,Italy
+karan,Kanhangad,Kanhangadukaran,India
+n,Virginia,Virginian,South Africa
+ian,Kazanlak,Kazanlakian,Bulgaria
+er,Nieuwegein,Nieuwegeiner,Netherlands
+in,Nagcarlan,Nagcarlangin,Philippines
+ing,Sandefjord,Sandefjording,Norway
+i,Palitana,Palitani,India
+in,Atimonan,Atimonanin,Philippines
+dar,Irun,irundar,Spain
+an,Fairbanks,Fairbanksan,United States
+esi,Vigevano,Vigevanesi,Italy
+esi,Carrara,Carraresi,Italy
+ense,Camboriu,camboriuense,Brazil
+ense,Carazinho,carazinhense,Brazil
+ianer,Horsens,Horsensianer,Denmark
+ring,Asker,Askering,Norway
+ini,Viareggio,Viareggini,Italy
+non,Abuyog,Abuyognon,Philippines
+ian,Chalkida,Chalcidian,Greece
+non,Laoang,Laoangnon,Philippines
+non,Gubat,Gubatnon,Philippines
+esi,Savona,Savonesi,Italy
+ni,Matera,Materani,Italy
+esi,Molfetta,Molfettesi,Italy
+esi,Olbia,Olbiesi,Italy
+eano,Aranjuez,ribereano,Spain
+er,Hardenberg,Hardenberger,Netherlands
+ine,Agrigento,Agrigentine,Italy
+in,Montenegro,Montenegrin,Brazil
+ivi,Sandila,Sandilivi,India
+ini,Faenza,Faentini,Italy
+ganon,Palompon,Palomponganon,Philippines
+ese,Moncalieri,Moncalierese,Italy
+an,Serres,Serrean,Greece
+ian,Fredericton,Frederictonian,Canada
+enser,Tonsberg,Tonsbergenser,Norway
+ense,La Plata,platense,Colombia
+ati,Foligno,Folignati,Italy
+wasi,Vrindavan,Vrindavanwasi,India
+bashi,Raxaul,Raxaulbashi,India
+er,Oosterhout,Oosterhouter,Netherlands
+enyo,Paombong,Paombongenyo,Philippines
+ese,Cuneo,Cuneese,Italy
+kar,Anjangaon,Anjangaonkar,India
+iya,Pithoragarh,Pithoragarhiya,India
+esi,Bisceglie,Biscegliesi,Italy
+i,Viramgam,Viramgami,India
+wala,Bhongir,Bhongirwala,India
+an,Asturias,Asturian,Philippines
+n,Carigara,Carigaran,Philippines
+an,Mali,Malian,China
+aar,Terneuzen,Terneuzenaar,Netherlands
+esi,Montesilvano,Montesilvanesi,Italy
+ese,Siena,Senese,Italy
+ite,Daudnagar,Daudnagarite,India
+in,Tagkawayan,Tagkawayanin,Philippines
+ense,Huesca,Oscense,Spain
+ense,Upata,Upatense,Venezuela
+in,Lucban,Lucbanin,Philippines
+enser,Roskilde,Roskildenser,Denmark
+ian,Galveston,Galvestonian,United States
+n,America,American,United States
+ia,Koraput,Koraputia,India
+kar,Phaltan,Phaltankar,India
+esi,Pordenone,Pordenonesi,Italy
+esi,Battipaglia,Battipagliesi,Italy
+no,Chieti,Chietino,Italy
+ite,Bozeman,Bozemanite,United States
+esi,Misterbianco,Misterbianchesi,Italy
+n,Segovia,Segovian,Spain
+iya,Sujanpur,sujanpuriya,India
+ero,Baranoa,Baranoero,Colombia
+enser,Herning,Herningenser,Denmark
+enser,Silkeborg,Silkeborgenser,Denmark
+ano,Mantova,Mantovano,Italy
+er,Harderwijk,Harderwijker,Netherlands
+i,Kapadvanj,Kapadvanji,India
+ero,Adeje,Adejero,Spain
+er,Waalwijk,Waalwijker,Netherlands
+otti,Chioggia,Chioggiotti,Italy
+esi,Empoli,Empolesi,Italy
+i,Lecco,Lecchesi,Italy
+ian,Homnabad,Homnabadian,India
+aar,Zutphen,Zutphenaar,Netherlands
+aner,Helsingor,Helsingoraner,Denmark
+er,Ridderkerk,Ridderkerker,Netherlands
+ense,Chinchina,Chinchinense,Colombia
+i,Bhatkal,Bhatkali,India
+er,Minot,Minoter,United States
+i,Umarkhed,Umarkhedi,India
+ini,Rieti,Reatini,Italy
+ense,Paracambi,Paracambiense,Brazil
+eano,Urrao,Urraeno,Colombia
+an,Blois,Bloisian,France
+ate,Frosinone,Frusinate,Italy
+aar,Veldhoven,Veldhovenaar,Netherlands
+ese,Vercelli,Vercellese,Italy
+an,Manvi,Manvian,India
+ram,Rameswaram,Rameswarammar,India
+ois,Sete,Setois,France
+an,Manacor,Manacoran,Spain
+er,Naestved,Naestveder,Denmark
+ino,Vallenar,Vallenarino,Chile
+ia,Angul,Angulia,India
+esi,Senigallia,Senigalliesi,Italy
+kar,Medak,Medakakar,India
+esi,Bassano del Grappa,Bassanesi,Italy
+aar,Rheden,Rhedenaar,Netherlands
+er,Nijkerk,Nijkerker,Netherlands
+esi,Alghero,Algheresi,Italy
+an,Mankato,Mankatoan,United States
+kar,Yeola,Yeolekar,India
+naar,Tiel,Tielenaar,Netherlands
+aar,Huizen,Huizenaar,Netherlands
+ian,Charlottetown,Charlottetonian,Canada
+ais,Castres,Castrais,France
+ian,Pahrump,Pahrumpian,United States
+esi,Macerata,Maceratesi,Italy
+esi,Monterotondo,Monterotondesi,Italy
+aar,Dronten,Drontenaar,Netherlands
+ese,Merano,Meranese,Italy
+esi,Vasto,Vastesi,Italy
+esi,Sassuolo,Sassolesi,Italy
+ote,Sarande,Sarandiote,Albania
+ano,Antequera,antequerano,Spain
+an,Delaware,Delawarean,United States
+er,Wageningen,Wageninger,Netherlands
+ensi,Sciacca,Saccensi,Italy
+ani,Rovereto,Roveretani,Italy
+ino,Huaura,Huaurino,Peru
+ini,Iesi,Jesini,Italy
+ejo,Camana,Camanejo,Peru
+er,Heemskerk,Heemskerker,Netherlands
+esi,Maddaloni,Maddalonesi,Italy
+ani,Fondi,Fondani,Italy
+yan,Vavuniya,Vavuniyan,Sri Lanka
+esi,Voghera,Vogheresi,Italy
+ian,Waxahachie,Waxahachian,United States
+non,Caluya,Caluyanon,Philippines
+er,Gorinchem,Gorkumer,Netherlands
+naar,Landgraaf,Landgravenaar,Netherlands
+er,Lluchmayor,Llucmajorer,Spain
+aar,Veghel,Veghelaar,Netherlands
+er,Holyoke,Holyoker,United States
+er,Venlo,Venloer,Netherlands
+ini,Caltagirone,Calatini,Italy
+aar,Goes,Goesenaar,Netherlands
+aar,Raalte,Raaltenaar,Netherlands
+ense,Granadero Baigorria,baigorriense,Argentina
+eano,Bantay,BantayeÃ±o,Philippines
+ense,Paraty,paratiense,Brazil
+ani,Fermo,Fermani,Italy
+esi,Licata,Licatesi,Italy
+ian,Bartlesville,Bartian,United States
+folk,Porsgrunn,Porsgrunnsfolk,Norway
+esi,Pinerolo,Pinerolesi,Italy
+ero,Neiba,Neibero,Dominican Republic
+esi,Nuoro,Nuoresi,Italy
+i,Udhampur,Udhampuri,India
+n,Dagami,Dagamin,Philippines
+esi,Rende,Rendesi,Italy
+eano,Andujar,Andujareano,Spain
+esi,Somma Vesuviana,Sommesi,Italy
+esi,Cento,Centesi,Italy
+iti,Adrano,Adraniti,Italy
+esi,Segrate,Segratesi,Italy
+esi,Belluno,Bellunesi,Italy
+ense,Teruel,Turolense,Spain
+aar,Coevorden,Coevordenaar,Netherlands
+ani,Osimo,Osimani,Italy
+eano,Galapagar,Galapagueano,Spain
+no,Yecla,Yeclano,Spain
+ani,Gorizia,Goriziani,Italy
+ois,Nevers,Neversois,France
+ense,Bodoco,bodocense,Brazil
+esi,Formigine,Formiginesi,Italy
+eano,Caucagua,Caucagueano,Venezuela
+eano,Mogpog,Mogpogueano,Philippines
+ano,Cachoeira,Cachoeirano,Brazil
+n,Almora,Almoran,India
+ien,Cambrai,Cambrasien,France
+non,Palapag,Palapagnon,Philippines
+esi,Termoli,Termolesi,Italy
+kar,Pulgaon,Pulgaonkar,India
+esi,Mascalucia,Mascaluciesi,Italy
+er,Lochem,Lochemer,Netherlands
+an,Puerto Rico,Puerto Rican,Colombia
+ano,Cacapava do Sul,cacapavano,Brazil
+an,Kos,Koan,Greece
+aar,Boxtel,Boxelaar,Netherlands
+eano,Castro-Urdiales,Castreanos,Spain
+ensi,Abbiategrasso,Abbiatensi,Italy
+an,Dumalinao,Dumalinaoan,Philippines
+n,Colombia,Colombian,Cuba
+er,Aalsmeer,Aalsmeerder,Netherlands
+er,Manises,Maniser,Spain
+ano,Chancay,Chancayano,Peru
+esi,Camaiore,Camaioresi,Italy
+aar,Vught,Vughtenaar,Netherlands
+esi,Milazzo,Milazzesi,Italy
+er,Dumfries,Doonhamer,United Kingdom
+ian,Nacogdoches,Nacogdochian,United States
+non,Catubig,Catubignon,Philippines
+esi,Grottaglie,Grottagliesi,Italy
+ano,Itamarandiba,Itamarandibano,Brazil
+ano,Quintero,Quinterano,Chile
+esi,Oristano,Oristanesi,Italy
+ans,Sitges,Sitgetans,Spain
+esi,Avola,Avolesi,Italy
+aar,Uithoorn,Uithoornaar,Netherlands
+esi,Sarno,Sarnesi,Italy
+ano,Jerez,Jerezanos,Guatemala
+i,Mahemdavad,Mahemdavadi,India
+es,Carballo,Carballes,Spain
+ini,Nardo,Neretini,Italy
+sar,Halden,Haldenser,Norway
+esi,Ostuni,Ostunesi,Italy
+esi,Marigliano,Mariglianesi,Italy
+is,Chitral,Chitralis,Pakistan
+eano,Guanta,Guanteano,Venezuela
+aar,Leusden,Leusdenaar,Netherlands
+an,Salou,Salouean,Spain
+kar,Uran,Urankar,India
+esi,Treviglio,Trevigliesi,Italy
+ese,Aungban,Aungbanese,Myanmar
+ero,Hellin,Hellinero,Spain
+ero,Valdepenas,Valdepeanero,Spain
+ois,Agde,Agathois,France
+an,Mundi,Mundian,India
+er,Culemborg,Culemborger,Netherlands
+ini,Canosa di Puglia,Canosini,Italy
+ense,Carinhanha,Carinhanhense,Brazil
+esi,Misilmeri,Misilmeresi,Italy
+esi,Parabiago,Parabiaghesi,Italy
+tesne,Spinea,Spinetense,Italy
+ian,Redondela,Redondeian,Spain
+karan,Vattalkundu,Vathalagundukaran,India
+ian,Sevenoaks,Sennockian,United Kingdom
+esi,Monfalcone,Monfalconesi,Italy
+esi,Poggibonsi,Poggibonsesi,Italy
+as,Kavaje,Kavajas,Albania
+enaar,Boxmeer,Boxmeerenaar,Netherlands
+esi,Gragnano,Gragnanesi,Italy
+ese,Carmagnola,Carmagnolese,Italy
+esi,Pontedera,Pontaderesi,Italy
+esi,Alatri,Alatresi,Italy
+esi,Cervia,Cervesi,Italy
+ense,Itatiaia,Itatiaiense,Brazil
+er,Heerenveen,Heerenvener,Netherlands
+ing,Lillehammer,Lillehamring,Norway
+n,Venezuela,Venezuelan,Cuba
+ani,Assisi,Assisiani,Italy
+ero,Sesena,Seseanero,Spain
+esi,Bacoli,Bacolesi,Italy
+esi,Belpasso,Belpassesi,Italy
+enser,Svendborg,Svendborgenser,Denmark
+er,Nunspeet,Nunspeter,Netherlands
+i,Almazora,Almassorai,Spain
+ense,Tenares,Tenarense,Dominican Republic
+eano,Cartama,Cartameano,Spain
+er,Veendam,Veendammer,Netherlands
+avi,Penukonda,penukondavi,India
+esi,Mirano,Miranesi,Italy
+nos,Lebrija,Lebrijano,Spain
+i,Bandipura,Bandipori,India
+naar,Hulst,Hulstenaar,Netherlands
+ino,Mulchen,Mulchenino,Chile
+nin,Macalelon,Macalelonin,Philippines
+ian,Aytos,Aytossian,Bulgaria
+er,Wassenaar,Wassenaarder,Netherlands
+esi,Enna,Ennesi,Italy
+ino,Fidenza,Fidentino,Italy
+esi,Mesagne,Mesagnesi,Italy
+ino,Pacasmayo,Pacasmayino,Peru
+n,Albania,Albanian,Colombia
+ing,Eidsvoll,Eidsvolling,Norway
+i,Siofok,Siofoki,Hungary
+esi,Arzignano,Arzignanesi,Italy
+ino,Puerto Varas,Portovarino,Chile
+ois,Saint-Bruno-de-Montarville,Montarvillois,Canada
+ano,Mantua,Mantovano,Cuba
+er,Oliva,Oliver,Spain
+esi,Legnago,Legnaghesi,Italy
+der,Oud-Beijerland,Oud-Beijerlander,Netherlands
+aar,Baarn,Baarnaar,Netherlands
+esi,Portogruaro,Portogruaresi,Italy
+ense,Aimores,aimoreense,Brazil
+i,Calpe,Calpi,Spain
+er,Whitehorse,Whitehorser,Canada
+ing,Nittedal,Nittedaling,Norway
+in,Burdeos,Burdeosin,Philippines
+eano,Algeciras,Algecireano,Colombia
+nesi,Albenga,Albenganesi,Italy
+aar,Putten,Puttenaar,Netherlands
+esi,Sulmona,Sulmonesi,Italy
+naar,Goirle,Goirlenaar,Netherlands
+aar,Haaksbergen,Haaksbergenaar,Netherlands
+esi,Copertino,Copertinesi,Italy
+naar,Lisse,Lissenaar,Netherlands
+esi,Noto,Notinesi,Italy
+ini,Pietrasanta,Pietrasantini,Italy
+ense,Jequitinhonha,Jequitinhonhense,Brazil
+esi,Ventimiglia,Ventimigliesi,Italy
+ino,Quellon,Quellonino,Chile
+esi,Capoterra,Capoterresi,Italy
+esi,Mirandola,Mirandolesi,Italy
+er,Elburg,Elburger,Netherlands
+er,Yukon,Yukoner,United States
+ese,Lentini,Lentinese,Italy
+ni,Floridia,Floridiani,Italy
+ite,Moskva,Muscovite,Tajikistan
+dos,Esparraguera,Esparregados,Spain
+ense,Agrestina,Agrestinense,Brazil
+esi,Massarosa,Massarosesi,Italy
+eano,Moguer,Moguereano,Spain
+tani,Amalfi,Amalfitani,Colombia
+esi,Sondrio,Sondriesi,Italy
+ese,Pachino,Pachinese,Italy
+ense,Umbauba,Umbaubense,Brazil
+ini,Ginosa,Ginosini,Italy
+ese,Borgomanero,Borgomanerese,Italy
+ense,Carai,caraiense,Brazil
+an,Colorado,Coloradan,Brazil
+esi,Palestrina,Palestrinesi,Italy
+er,Woensdrecht,Woensdrechter,Netherlands
+ian,Corinth,Corinthian,United States
+ense,Itamaraca,Itamaracaense,Brazil
+naar,Zundert,Zundertenaar,Netherlands
+ese,Cortona,Cortonese,Italy
+ini,Isernia,Isernini,Italy
+esi,Corciano,Corcianesi,Italy
+eano,Nerja,Nerjeano,Spain
+er,Leerdam,Leerdammer,Netherlands
+esi,Grottaferrata,Grottaferratesi,Italy
+ing,Elverum,Elverumsing,Norway
+ini,Colleferro,Colleferrini,Italy
+esi,Recanati,Recanatesi,Italy
+enc,Puzol,Puzolenc,Spain
+er,Bulach,Bulacher,Switzerland
+nian,Westborough,Westboronian,United States
+aar,Brummen,Brummenaar,Netherlands
+ian,Baroda,Barodian,India
+ano,Serro,serrano,Brazil
+esi,Giovinazzo,Giovinazzesi,Italy
+ero,Cartaya,cartayero,Spain
+esi,Cittadella,Cittadellesi,Italy
+ani,Gaeta,Gaetani,Italy
+ani,Sabaudia,Sabaudiani,Italy
+aar,Rhenen,Rhenenaar,Netherlands
+esi,Acri,Acresi,Italy
+eano,Torrox,Torroxeano,Spain
+esi,Melzo,Melzesi,Italy
+ero,Chipiona,Chipionero,Spain
+ense,Guapiacu,Guapiacuense,Brazil
+anon,Malabuyoc,Malabuyocanon,Philippines
+ian,Oregon,Oregonian,United States
+ian,Kittur,Kitturian,India
+esi,Signa,Signesi,Italy
+ano,Atarfe,Atarfeano,Spain
+ini,Ariccia,Ariccini,Italy
+ense,Piratini,Piratinense,Brazil
+ini,Pescia,Pesciatini,Italy
+eano,Cabusao,Cabusaoeano,Philippines
+i,Keszthely,keszthelyi,Hungary
+esi,Adria,Adriesi,Italy
+er,Yellowknife,Yellowknifer,Canada
+tano,Paraisopolis,paraisopolitano,Brazil
+ani,Scorze,Scorzetani,Italy
+esi,Agliana,Aglianesi,Italy
+ense,Umburanas,umburanense,Brazil
+naar,Oirschot,Oirschottenaar,Netherlands
+naar,Heerde,Heerdenaar,Netherlands
+er,Laives,Leiferer,Italy
+ni,Capua,Capuani,Italy
+eano,Tarifa,Tarifeano,Spain
+esi,Budrio,Budriesi,Italy
+er,Kristiansund,Kristiansunder,Norway
+esi,Zagarolo,Zagarolesi,Italy
+esi,Villorba,Villorbesi,Italy
+esi,Piossasco,Piossaschesi,Italy
+ano,Baependi,baependiano,Brazil
+nian,Wantagh,Wantonian,United States
+aar,Naarden,Naardenaar,Netherlands
+lvi,Ambala,Ambalvi,India
+esi,Alpignano,Alpignanesi,Italy
+ino,Sangenjo,Lilaino,Spain
+esi,Marcon,Marconesi,Italy
+esi,Maranello,Maranellesi,Italy
+ini,Sorrento,Sorrentini,Italy
+rra,Munguia,mungiarra,Spain
+esi,Baronissi,Baronissesi,Italy
+eano,Jovellar,Jovellareano,Philippines
+esi,Pianoro,Pianoresi,Italy
+eano,Humacao,Humacaeano,Puerto Rico
+esi,Vimodrone,Vimodronesi,Italy
+ter,Zandvoort,Zandvoorter,Netherlands
+esi,Adelfia,Adelfiesi,Italy
+er,Niagara-on-the-Lake,Niagara-on-the-Laker,Canada
+ense,Osuna,Ursaonense,Spain
+ano,Zarumilla,Zarumillano,Peru
+ite,Brenham,Brenhamite,United States
+esi,Saviano,Savianesi,Italy
+esi,Bareggio,Bareggesi,Italy
+esi,Carovigno,Carovignesi,Italy
+tar,Bermeo,bermeotar,Spain
+gos,Pozoblanco,Tarugos,Spain
+ese,Saluzzo,Saluzzese,Italy
+ense,Belterra,belterrense,Brazil
+esi,Grottammare,Grottammaresi,Italy
+er,Middelfart,Middelfarter,Denmark
+ese,Malta,Maltese,United States
+esi,Giaveno,Giavenesi,Italy
+aar,Heumen,Heumenaar,Netherlands
+esi,Medicina,Medicinesi,Italy
+esi,Locarno,Locarnesi,Switzerland
+n,Laconia,Laconian,United States
+soking,Rygge,Ryggesokning,Norway
+ini,Todi,Todini,Italy
+ian,Bolivia,Bolivian,Cuba
+ing,Honefoss,Honefossing,Norway
+ois,Saint-Amand-les-Eaux,Amandinois,France
+eano,Panukulan,Panukuleano,Philippines
+esi,Copparo,Copparesi,Italy
+esi,Tarquinia,Tarquiniesi,Italy
+aise,Guerande,Guerandaise,France
+esi,Ospitaletto,Ospitalettesi,Italy
+ian,Leixlip,Leixlipian,Ireland
+esi,Merate,Meratesi,Italy
+esi,Pianezza,Pianezzesi,Italy
+esi,Certaldo,Certaldesi,Italy
+eano,Alpedrete,Alpedreteano,Spain
+ian,Lewes,Lewesian,United Kingdom
+esi,Valmontone,Valmontonesi,Italy
+er,Bentheim,Bentheimer,Germany
+esi,Rescaldina,Rescaldinesi,Italy
+esi,Mottola,Mottolesi,Italy
+er,Nuth,Nutter,Netherlands
+ing,Voss,Vossing,Norway
+ini,Casalpusterlengo,Casalini,Italy
+ini,Surbo,Surbini,Italy
+er,Bunnik,Bunniker,Netherlands
+esi,Finale,Finalesi,Italy
+esi,Riposto,Ripostesi,Italy
+esi,Castellarano,Castellaranesi,Italy
+ense,La Roda,Rodense,Spain
+ian,Forfar,Forfarian,United Kingdom
+rra,Azpeitia,azpeitiarra,Spain
+ino,Putaendo,Putaendino,Chile
+tino,Fraga,Fragatino,Spain
+ani,Zevio,Zeviani,Italy
+esi,Pineto,Pinetesi,Italy
+esi,Sommacampagna,Sommacampagnesi,Italy
+ol,Vennesla,Venndol,Norway
+esi,Rosarno,Rosarnesi,Italy
+soking,Nannestad,Nannestadsokning,Norway
+ense,Guayos,Guayense,Cuba
+esi,Rosa,Rosatesi,Italy
+liler,Ozdere,Ozdereliler,Turkey
+esi,Sorso,Sorsesi,Italy
+esi,Carmignano,Carmignanesi,Italy
+ing,Verdal,Verdaling,Norway
+er,Woudrichem,Woudrichemmer,Netherlands
+aner,Jever,Jeveraner,Germany
+esi,Mondolfo,Mondolfesi,Italy
+esi,Collecchio,Collecchiesi,Italy
+aar,Slochteren,Slochtenaar,Netherlands
+esi,Maglie,Magliesi,Italy
+i,Alginet,Algineti,Spain
+esi,Trinitapoli,Trinitapolesi,Italy
+ani,Orbetello,Orbetellani,Italy
+ing,Askim,Askiming,Norway
+esi,Cicciano,Ciccianesi,Italy
+ate,Urbino,Urbinate,Italy
+car,Benaulim,Bannalemcar,India
+esi,Cefalu,Cefaludesi,Italy
+esi,Locorotondo,Locorotondesi,Italy
+chi,Taggia,Taggiaschi,Italy
+ese,Caselle Torinese,Casellese,Italy
+ensi,Marostica,Marosticensi,Italy
+non,Mapanas,Mapanasnon,Philippines
+esi,Bondeno,Bondenesi,Italy
+bo,Thisted,Thistedbo,Denmark
+ing,Narvik,Narviking,Norway
+esi,Vetralla,Vetrallesi,Italy
+n,California,Californian,United States
+ense,Itaguacu,Itaguacuense,Brazil
+ani,Vieste,Viestani,Italy
+esi,Statte,Stattesi,Italy
+ani,Cavarzere,Cavarzerani,Italy
+ense,Arroio dos Ratos,arroio-ratense,Brazil
+esi,Latisana,Latisanesi,Italy
+walia,Bundala,Bundalawalia,India
+esi,Arzachena,Arzachenesi,Italy
+ric,Soller,Solleric,Spain
+aar,Schoonhoven,Schoonhovenaar,Netherlands
+esi,Camponogara,Camponogaresi,Italy
+esi,Grammichele,Grammichelesi,Italy
+esi,Vigodarzere,Vigodarzeresi,Italy
+esi,Crevalcore,Crevalcoresi,Italy
+esi,Melilli,Melillesi,Italy
+ais,Lourdes,Lourdais,France
+ais,Mayenne,Mayennais,France
+esi,Formello,Formellesi,Italy
+it,Nakskov,Nakskovit,Denmark
+esi,Chiampo,Chiampesi,Italy
+ino,Tucapel,Tucapelino,Chile
+oli,Calcinaia,Calcinaioli,Italy
+esi,Carpenedolo,Carpenedolesi,Italy
+esi,Ficarazzi,Ficarazzesi,Italy
+ish,Sweden,Swedish,United States
+esi,Montegranaro,Montegranaresi,Italy
+esi,Pontecorvo,Pontecorvesi,Italy
+esi,Apricena,Apricenesi,Italy
+esi,Raffadali,Raffadalesi,Italy
+esi,Barrafranca,Barresi,Italy
+nin,Agdangan,Agdanganin,Philippines
+esi,Stezzano,Stezzanesi,Italy
+esi,Monteprandone,Monteprandonesi,Italy
+esi,Leonforte,Leonfortesi,Italy
+ano,Noceto,Nocetano,Italy
+ois,Graulhet,Graulhetois,France
+ense,Albatera,Albaterense,Spain
+er,Tetiiv,Tetiever,Ukraine
+ing,Notodden,Notodding,Norway
+esi,Mercogliano,Mercoglianesi,Italy
+esi,Lipari,Liparesi,Italy
+ino,Frutillar,Frutillarino,Chile
+ois,Florange,Florangeois,France
+tar,Arrigorriaga,Arrigorriagatar,Spain
+er,Voerendaal,Voerendaler,Netherlands
+esi,Locri,Locresi,Italy
+ero,Salobrena,Salobreanero,Spain
+esi,Paullo,Paullesi,Italy
+ian,Grenada,Grenadian,United States
+ense,Cinisi,Cinisense,Italy
+esi,Gavardo,Gavardesi,Italy
+ebu,Bryne,Brynebu,Norway
+ano,Bejar,bejarano,Spain
+eano,Estepa,Estepeano,Spain
+kar,Kamalnagar,Kamalnagarkar,India
+esi,Bernalda,Bernaldesi,Italy
+esi,Lizzanello,Lizzanellesi,Italy
+esi,Taurisano,Taurisanesi,Italy
+esi,Atripalda,Atripaldesi,Italy
+ense,Canovanas,Canovanense,Puerto Rico
+esi,Portoferraio,Portoferraiesi,Italy
+esi,Pulsano,Pulsanesi,Italy
+esi,Susegana,Suseganesi,Italy
+esi,Bitetto,Bitettesi,Italy
+esi,Loano,Loanesi,Italy
+non,Lapinig,Lapinignon,Philippines
+ger,Doesburg,Doesburger,Netherlands
+esi,Casteldaccia,Casteldaccesi,Italy
+ano,Azcoitia,azcoitano,Spain
+ais,Porto-Vecchio,Porto-Vecchiais,France
+esi,Codigoro,Codigoresi,Italy
+ini,Venosa,Venosini,Italy
+ense,Bullas,Bullense,Spain
+esi,Cisternino,Cistranesi,Italy
+er,Leidschendam,Leidschendammer,Netherlands
+nsi,Portomaggiore,Portuensi,Italy
+uri,Ravanusa,Ravanusauri,Italy
+esi,Taormina,Taorminesi,Italy
+i,Muzaffarnagar,Muzaffarnagri,India
+esi,Ovada,Ovadesi,Italy
+ani,Caorle,Caprulani,Italy
+esi,Mestrino,Mestrinesi,Italy
+esi,Trecastagni,Trecastagnesi,Italy
+ring,Lenvik,Lenvikvering,Norway
+can,Mexico,Mexican,Philippines
+esi,Siniscola,Siniscolesi,Italy
+ar,Egersund,Egersundar,Norway
+ian,Healdsburg,Healdsburgian,United States
+ini,Creazzo,Creatini,Italy
+ino,Alassio,Alassino,Italy
+esi,Bitritto,Bitrittesi,Italy
+esi,Cislago,Cislaghesi,Italy
+ois,Abbeville,Abbevillois,United States
+ing,Enebakk,Enebakking,Norway
+bu,Tysvaer,Tysvaerbu,Norway
+esi,Aulla,Aullesi,Italy
+esi,Polistena,Polistenesi,Italy
+uts,Castalla,Castellut,Spain
+esi,Cameri,Cameresi,Italy
+ese,Corleone,Corleonese,Italy
+er,Simpelveld,Simpelvelter,Netherlands
+ian,Peru,Peruvian,United States
+ense,Brunete,brunetense,Spain
+ian,Grand Rapids,Grand Rapidian,United States
+esi,Montecchio Emilia,Montecchiesi,Italy
+esi,Lomazzo,Lomazzesi,Italy
+er,Fife,Fifer,United States
+ani,Itri,Itrani,Italy
+ense,Tosagua,Tusaguense,Ecuador
+esi,Randazzo,Randazzesi,Italy
+esi,Vigonovo,Vigonovesi,Italy
+esi,Vanzago,Vanzaghesi,Italy
+tani,Salemi,Salemitani,Italy
+esi,Castrolibero,Castroliberesi,Italy
+csi,Barcs,barcsi,Hungary
+n,Westphalia,Westphalian,United States
+esi,Cutro,Cutresi,Italy
+ia,Samalpur,Sambalpuria,India
+ense,Alcaudete,Alcaudetense,Spain
+ini,Aradeo,Aradeini,Italy
+ense,Arvorezinha,arvorezinhense,Brazil
+esi,Trabia,Trabiesi,Italy
+esi,Cittanova,Cittanovesi,Italy
+esi,Terralba,Terralbesi,Italy
+esi,Capriolo,Capriolesi,Italy
+i,Nagyatad,nagyatadi,Hungary
+oti,Crosia,Crosioti,Italy
+ense,Chavinda,Chavindense,Mexico
+esi,Cuorgne,Cuorgnatesi,Italy
+ais,Carqueiranne,Carqueirannais,France
+ese,Castellamonte,Castellamontese,Italy
+ani,Vigasio,Vigasiani,Italy
+ani,Cingoli,Cingolani,Italy
+ese,Racconigi,Racconigese,Italy
+esi,Bucine,Bucinesi,Italy
+enc,Matadepera,Matadeperenc,Spain
+ini,Sovicille,Sovicillini,Italy
+esi,Gambolo,Gambolesi,Italy
+esi,Cavriago,Cavriaghesi,Italy
+esi,Melendugno,Melendugnesi,Italy
+esi,Macomer,Macomeresi,Italy
+esi,Garlasco,Garlaschesi,Italy
+man,Yorkshire,Yorkshireman,United States
+esi,Urgnano,Urgnanesi,Italy
+esi,Magnago,Magnaghesi,Italy
+ese,Colindres,colindrese,Spain
+esi,Vidor,Vidoresi,United States
+i,Panjab,Punjabi,Afghanistan
+esi,Conselice,Conselicesi,Italy
+esi,Deruta,Derutesi,Italy
+esi,Resana,Resanesi,Italy
+esi,Siano,Sianesi,Italy
+esi,Sorbolo,Sorbolesi,Italy
+ite,Irungalur,Tiruchiite,India
+ian,Harran,Harranian,Turkey
+esi,Cavriglia,Cavrigliesi,Italy
+er,Farsund,Farsunder,Norway
+ing,Fauske,Fauskevring,Norway
+esi,Striano,Strianesi,Italy
+esi,Gatteo,Gatteesi,Italy
+ais,Vallet,Valletais,France
+as,Belley,Belleysan,France
+ini,Nepi,Nepesini,Italy
+esi,Fossombrone,Fossombronesi,Italy
+esi,Aragona,Aragonesi,Italy
+ian,Monett,Monettian,United States
+n,Bohemia,Bohemian,United States
+esi,Martano,Martanesi,Italy
+esi,Missaglia,Missagliesi,Italy
+ani,Asolo,Asolani,Italy
+esi,Pandino,Pandinesi,Italy
+esi,Treia,Treiesi,Italy
+esi,Porcari,Porcaresi,Italy
+n,Madeira,Madeiran,United States
+esi,Podenzano,Podenzanesi,Italy
+esi,Lacchiarella,Lacchiarellesi,Italy
+esi,Borgosatollo,Borgosatollesi,Italy
+esi,Vignate,Vignatesi,Italy
+esi,Colorno,Colornesi,Italy
+no,Segorbe,Segorbino,Spain
+esi,Soresina,Soresinesi,Italy
+esi,Montagnana,Montagnanesi,Italy
+ish,Flanders,Flemish,United States
+ien,Checy,Cacien,France
+esi,Aviano,Avianesi,Italy
+esi,Guardiagrele,Guardiesi,Italy
+ense,Tineo,tinetense,Spain
+esi,Vergiate,Vergiatesi,Italy
+ini,Roccastrada,Roccastradini,Italy
+ano,Cheste,Chestano,Spain
+ing,Flekkefjord,Flekkefjoring,Norway
+esi,Laveno-Mombello,Lavenesi,Italy
+ense,Tepechitlan,Tepechitlense,Mexico
+esi,Breganze,Breganzesi,Italy
+ense,Morpara,Morparaense,Brazil
+esi,Vicopisano,Vicaresi,Italy
+aar,Strijen,Strijenaar,Netherlands
+n,Angola,Angolan,United States
+ese,Brandizzo,Brandizzese,Italy
+ani,Erchie,Erchiolani,Italy
+ard,Savoy,Savoyard,United States
+esi,Sortino,Sortinesi,Italy
+esi,Dorgali,Dorgalesi,Italy
+esi,Gavorrano,Gavorranesi,Italy
+esi,Calvisano,Calvisanesi,Italy
+esi,Cagli,Cagliesi,Italy
+ing,Namsos,Namsosing,Norway
+ing,Hammerfest,Hammerfesting,Norway
+ing,Svolvaer,Svolvaering,Norway
+ian,Tirupati,Tirupatian,India
+kar,Kalyan,Kalyankar,India
+an,Mysore,Mysorean,India
+an,Pilibhit,Pilbhitian,India
+n,Australia,Australian,Cuba
+n,Andalusia,Andalusian,United States
+ian,Aarhus,Aarhusian,
+ite,Adana,Adanite,
+ian,Albany,Albanian,
+ois,Algiers,Algerois,
+ian,Almera,Almerian,
+ian,Alpine,Alpinian,
+ite,Ammon,Ammonite,
+ense,Amparo,Amparense,
+ite,Andong,Andongite,
+ino,Angeles,Angelino,
+vin,Angers,Angevin,
+n,Antakya,Antakyan,
+awi,Aqaba,Aqabawi,
+ian,Arlington,Arlingtonian,
+ian,Armagh,Armachian,
+ian,Armidale,Armidilian,
+i,Ashdod,Ashdodi,
+ian,Ashkelon,Ashkelonian,
+no,Asuncian,Asunceno,
+ian,Balikesir,Balikesirian,
+nian,Bath,Bathonian,
+an,Baton Rouge,Baton Rougean,
+ian,Bedford,Bedfordian,
+n,Beersheba,Beersheban,
+er,Beijing,Beijinger,
+er,Belfast,Belfaster,
+an,Benevento,Beneventan,
+an,Bengeo,Bengean,
+ian,Bnei Brak,Bnei Brakian,
+ite,Bodrum,Bodrumite,
+ian,Bolton,Boltonian,
+n,Bossangoa,Bossangoan,
+nian,Buffalo,Buffalonian,
+ian,Burlington,Burlingtonian,
+nese,Bursa,Bursanese,
+ite,Cairns,Cairnsite,
+ian,Cambridge,Cantabrigian,
+eiro,Campinas,Campineiro,
+ense,Campo Grande,campo-grandense,
+n,Canberra,Canberran,
+ian,Cardiff,Cardiffian,
+an,Carlisle,Carlislian,
+ite,Carson City,Carsonite,
+ite,Casper,Casperite,
+ano,Cebu,Cebuano,
+ian,Charleston ,Charlestonian,
+ian,Chelmsford,Chelmsfordian,
+ian,Cheltenham,Cheltonian,
+ian,Chesterfield,Cestrefeldian,
+ite,Cheyenne,Cheyenneite,
+ian,Chilliwack,Chilliwackian,
+nian,Chittagong,Chittagonian,
+ite,Columbus,Columbusite,
+es,Cordoba,Cordobes,
+onian,Cork,Corkonian,
+ian,Dalaman,Dalamanian,
+ese,Da Lat,Dalatese,
+ian,Darwin,Darwinian,
+eano,Davao,Davaoeano,
+ite,Delhi,Delhiite,
+an,Denizli,Denizlian,
+ian,Derry,Derrian,
+ian,Devonport,Devonportian,
+ian,Diyarbakir,Diyarbakirian,
+er,Dresden,Dresdener,
+ian,Duluth,Duluthian,
+an,East Troy,East Trojan,
+er,Edinburgh,Edinburger,
+ian,Eilat,Eilatian,
+rd,Palinges,Palinsard,
+ian,Epidaurus,Epidaurian,
+ian,Erzurum,Erzurumian,
+ian,Eskihehir,Eskishehirian,
+an,Eugene,Eugenean,
+ite,Everett,Everettite,
+an,Fargo,Fargoan,
+nese,Fethiye,Fethiyennese,
+esi,Filettino,Filettinesi,
+ian,Finchley,Finchleian,
+er,Fort Lauderdale,Fort Lauderdaler,
+er,Fort Wayne,Fort Wayner,
+er,Frankfurt,Frankfurter,
+n,Gaza,Gazan,
+ian,Germiston,Germistonian,
+ian,Ghent,Ghentian,
+er,Godalming,Godalminger,
+er,Gold Coast,Gold Coaster,
+ian,Gosford,Gosfordian,
+ois,Grenoble,Grenoblois,
+ite,Gumi,Gumite,
+ite,Gwangju,Gwangjuite,
+ite,Gyeongju,Gyeongjuite,
+n,Haifa,Haifan,
+ian,Halifax,Haligonian,
+ian,Hamilton,Hamiltonian,
+ian,Hanover,Hanoverian,
+ian,Hartlepool,Hartlepudlian,
+er,Hastings,Hastinger,
+an,Hatay,Hatayan,
+ian,Hobart,Hobartian,
+ian,Holon,Holonian,
+er,Incheon,Incheoner,
+ian,Ipoh,Ipohian,
+eano,Iriga,Irigueano,
+no,Itabira,Itabirano ,
+n,Ithaca,Ithacan,
+ite,Izmit,Izmitite,
+ense,JaÃ©n,Jienense,
+ite,Jeonju,Jeonjuite,
+er,Johannesburg,Johannesburger,
+n,Joshua,Joshuan,
+n,Juba,Juban,
+ite,Juneau City,Juneauite,
+ane,Kaluga,Kaluzhane,
+ian,Kansas City,Kansas Citian,
+s,Karpasia,Karpasias,
+n,Kastoria,Kastorian,
+ian,Kayseri,Kayserian,
+ian,Kingston,Kingstonian,
+ite,Kitchener,Kitchenerite,
+ian,Kocaeli,Kocaelian,
+ite,Konya,Konyanite,
+ian,Kuala Lumpur,Kuala Lumpurian,
+ite,Kuching,Kuchingite,
+ian,Lancaster,Lancastrian,
+eano,La Paz,Paceano,
+ade,Larnaka,Larnakade,
+ois,Laval,Lavalois,
+ian,Leeds,Leodensian,
+er,Leipzig,Leipziger,
+eano,Legazpi,Legazpeano,
+ese,Leon,Leonese,
+ian,Lexington,Lexingtonian,
+ian,Liberal,Liberarian,
+eano,Ligao,Ligaoeano,
+ti,Limassol,Lemesouti,
+er,Linz,Linzer,
+ese,Lugano, Luganese,
+ese,Lyon,Lyonese,
+ite,Mackay,Mackayite,
+nean,Malaga,Malagenean,
+n,Malatya,Malatyan,
+nian,Manisa,Manisanian,
+an,Maputo,Maputan,
+ian,Marathon,Marathonian,
+ian,Mardin,Mardinian,
+ian,Marmaris,Marmarisian,
+ite,Marshall,Marshallite,
+ano,Masbate,Masbateano,
+ite,Mersin,Mersinite,
+ian,Megara,Megarian,
+ite,Melbourne, Melbournite,
+ian,Memphis,Memphian,
+ense,Mendrisio,Mendrisiense,
+ano,Mogi Guacu,Guacuano,
+ano,Mogi Mirim,Mogimiriano,
+n,Monrovia,Monrovian,
+ian,Moose Jaw,Moose Javian,
+i,Morphou,Morfiti,
+ian,Mugla,Mughlanian,
+er,Munich,Munchner,
+i,Mymensingh,Mymensingh,
+eano,Naga,Nagueano,
+n,Nagoya,Nagoyan,
+ite,Nanaimo,Nanaimoite,
+ense,Nanking,Nankinese,
+n,Napier,Napieran,
+ian,Nassau,Nassuvian,
+ian,Nelson,Nelsonian,
+n,Netanya,Netanyan,
+er,Newport,Newporter,
+er,New York,New Yorker,
+er,Norfolk,Norfolker,
+ian,Northampton,Northamptonian,
+er,Nuremberg,Nuremberger,
+ian,Oakbank,Oakbankian,
+ian,Oamaru,Oamaruvian,
+ian,Omak,Omakian,
+ite,Ordu,Ordunite,
+n,Osaka,Osakan,
+ian,Oshawa,Oshawian,
+ian,Oslo,Oslovian,
+ian,Oswestry,Oswestrian,
+er,Paddock Lake,Paddock Laker,
+n,Padua,Paduan,
+an,Paducah,Paducahan,
+ian,Palmerston,Palmerstonian,
+ene,Palmyra,Palmyrene,
+ite,Penang,Penangite,
+ite,Perth,Perthite,
+n,Perugia,Perugian,
+ian,Peterborough,Peterbourian,
+er,Phoenix,Phoenician,
+iti,Pissouri,Pissouriti,
+arian,Polmont,Polmontarian,
+n,Pompeii,Pompeian,
+ian,Ponferrada,Ponferradian,
+ian,Port Moresby,Port Moresbian,
+ki,Porto Cheli,Porto-Cheliki,
+er,Portland,Portlander,
+ian,Portsmouth,Portsmouthian,
+ian,Preston,Prestonian,
+in,Pripyat,Pripyatin,
+tian,Providence,Providentian,
+an,Provo,Provoan,
+ian,Pylos,Pylian,
+iya,Rajshahi,Rajshahiya,
+ian,Radnor,Radnorian,
+ite,Randall,Randallite,
+ian,Rangpur,"Rongpuri, Rangpuri",
+ite,Reading,Readingite,
+ian,Red Deer,Red Deerian,
+an,Regina,Reginan,
+ian,Rethymno,Rethymnian,
+ois,Reims,Remois,
+ian,Reykjavi­k,Reykjavikian,
+ano,Ribeireo Preto,Ribeireo Pretano,
+er,Richmond,Richmonder,
+ian,Rhodes,Rhodian,
+er,Roanoke,Roanoker,
+ian,Rochester,Rochesterian,
+ite,Rockhampton,Rockhamptonite,
+n,Rotorua,Rotoruan,
+ais,Rouen,Rouennais,
+er,Rye,Ryer,
+ian,Saint Helier,Saint-Helian,
+ite,Saint Paul,Saint Paulite,
+ite,Salem,Salemite,
+an,Salvador,Salvadoran,
+er,Salzburg,Salzburger,
+ite,Samsun,Samsunite,
+ean,San Jose,San Josean,
+nian,urfa,Urfanian,
+n,Santa Barbara,Santa Barbaran,
+n,Santa Clarita,Santa Claritan,
+n,Santa Monica,Santa Monican,
+ense,Sao Carlos,Saocarlense,
+kko,Sapporo,Sapporokko,
+ian,Savannah,Savannian,
+kko,Sendai,Sendaikko,
+ian,Seville,Sevillian,
+an,Shkoder,Shkodran,
+tan,Side,Sidetan,
+er,Silver Lake,Silver Laker,
+ite,Somers,Somersite,
+on,Sorsogon,Sorsoganon,
+an,Soweto,Sowetan,
+an,Sparta,Spartan,
+ian,Spoleto,Spoletian,
+ian,Springfield,Springfieldian,
+er,Sunshine Coast,Sunshine Coaster,
+ian,Swindon,Swindonian,
+ider,Sydney,Sydneysider,
+an,Syracuse,Syracusan,
+eano,Tabaco,Tabaqueano,
+n,Tacoma,Tacoman,
+an,Tallahassee,Tallahasseean,
+an,Tartu,Tartuan,
+n,Tasmania,Tasmanian,
+ian,Taunton,Tauntonian,
+ian,Tauranga,Taurangian,
+nan,Tekirdag,Tekirdaninan,
+ian,Tel Aviv,Tel Avivian,
+an,Thebes,Theban,
+ian,Timaru,Timaruvian,
+n,Toowoomba,Toowoomban,
+sian,Tournai,Tournaisian,
+ian,Townsville,Townsvillian,
+ian,Traverse City,Traverse Citian,
+ite,Trevor,Trevorite,
+ine,Trent,Tridentine,
+tan,Tripoli,Tripolitan,
+er,Twin Lakes,Twin Laker,
+ian,Tyre,Tyrian,
+ian,Van,Vanian,
+n,Victoria,Victorian,
+n,Villanova,Villanovan,
+ian,Ville Platte,Ville Platian,
+ite,Waco,Wacoite,
+ian,"Washington, D.C.",Washingtonian,
+ian,Waterbury,Waterburian,
+ian,Waterloo,Waterluvian,
+er,Wheatland,Wheatlander,
+n,Wichita,Wichitan,
+er,Wilmot,Wilmotter,
+ian,Wythenshawe,Wythenshavian,
+an,Xanthi,Xanthian,
+ite,Yeosu,Yeosuite,
+n,Yogyakarta,Yogyakartan,
+eano,Zamboanga,Zamboangueano,
+ian,Zonguldak,Zonguldakian,
+i,Zintan,Zintani,
+naar,Zwolle,Zwollenaar,
+an,Africa , African,
+an,Antarctica , Antarctican,
+an,Asia , Asian,
+an,Australia , Australian,
+an,Europe , European,
+an,North America , North American,
+an,South America , South American,
+an,Central America , Central American,
+an,Americas , American,
+an,Oceania , Oceanian,
+an,Afghanistan , Afghan,
+an,Albania , Albanian,
+an,Algeria , Algerian,
+an,Andorra , Andorran,
+an,Angola , Angolan,
+an,Antigua , Antiguan,
+an,Armenia , Armenian,
+an,Austria , Austrian,
+an,Barbuda , Barbudan,
+an,Belize , Belizean,
+an,Bolivia , Bolivian,
+an,Bosnia , Bosnian,
+an,Botswana , Botswanan,
+an,Brunei , Bruneian,
+an,Bulgaria , Bulgarian,
+an,Burundi , Burundian,
+an,Cambodia , Cambodian,
+an,Canada , Canadian,
+an,Chile , Chilean,
+an,Colombia , Colombian,
+an,Costa Rica , Costa Rican,
+an,Croatia , Croatians,
+an,Cuba , Cuban,
+an,Czech Republic , Czech,
+an,Dominican Republic , Dominican,
+an,El Salvador , Salvadoran,
+an,Eritrea , Eritrean,
+an,Estonia , Estonian,
+an,Ethiopia , Ethiopian,
+an,Fiji , Fijian,
+an,Galatia , Galatian,
+an,Gambia , Gambian,
+an,Georgia , Georgian,
+an,Germany , German,
+an,Guatemala , Guatemalan,
+an,Guinea , Guinean,
+an,Haiti , Haitian,
+an,Honduras , Honduran,
+an,Hungary , Hungarian,
+an,India , Indian,
+an,Indonesia , Indonesian,
+an,Israel , Israeli,
+an,Jamaica , Jamaican,
+an,Kenya , Kenyan,
+an,Kiribati , Kiribatian,
+an,North Korea , North Korean,
+an,South Korea , South Korean,
+an,Kosovo , Kosovan,
+an,Laos , Laos,
+an,Latvia , Latvian,
+an,Liberia , Liberian,
+an,Libya , Libyan,
+an,Lithuania , Lithuanian,
+an,Malawi , Malawian,
+an,Malaysia , Malaysian,
+an,Mali , Malian,
+an,Mauritania , Mauritanian,
+an,Mexico , Mexican,
+an,Micronesia , Micronesian,
+an,Moldova , Moldovan,
+an,Mongolia , Mongolian,
+an,Monaco , Monacan,
+an,Morocco , Moroccan,
+an,Mozambique , Mozambican,
+an,Myanmar , Myanman,
+an,Namibia , Namibian,
+an,Nauru , Nauruan,
+an,Nicaragua , Nicaraguan,
+an,Nigeria , Nigerian,
+an, Macedonia , Macedonian,
+an,Palau , Palauan,
+an,Papua New Guinea , Papua New Guinean,
+an,Paraguay , Paraguayan,
+an,Persia , Persian,
+an,Puerto Rico , Puerto Rican,
+an,Romania , Romanian,
+an,Russia , Russian,
+an,Rwanda , Rwandans,
+an,Saint Lucia , Saint Lucian,
+an,Samoa , Samoan,
+an,Saudi Arabia , Saudi Arabian,
+an,Serbia , Serbian,
+an,Sierra Leone , Sierra Leonean,
+an,Singapore , Singaporean,
+an,Slovakia , Slovakian,
+an,Slovenia , Slovenian,
+an,Somalia , Somali,
+an,South Africa , South African,
+an,Sri Lanka , Sri Lankan,
+an,Kitts," Kittitians, Nevisian",
+an,Syria , Syrian,
+an,Tanzania , Tanzanian,
+an,Tonga , Tongan,
+an,Tunisia , Tunisian,
+an,Turkey , Turk,
+an,Tuvalu , Tuvaluan,
+an,Uganda , Ugandan,
+an,United States , American,
+an,Uruguay , Uruguayan,
+an,Vanuatu , Vanuatuan,
+an,Venezuela , Venezuelan,
+an,Zambia , Zambian,
+an,Zimbabwe , Zimbabwean,
+an,Abkhazia , Abkhazian,
+an,Alaska , Alaskan,
+an,Alberta , Albertan,
+an,Algarve , Algarvian,
+an,Andalusia , Andalusian,
+an,Arizona , Arizonan,
+an,Arkansas , Arkansan,
+an,Asturias , Asturian,
+an,Bago Region , Bagoan,
+an,Bangka Island , Bangkan,
+an,Bavaria , Bavarian,
+an,Bohemia , Bohemian,
+an,Borneo , Bornean,
+an,British Columbia , British Columbian,
+an,Brittany , Breton,
+an,California , Californian,
+an,Canterbury , Cantabrian,
+an,Carinthia , Carinthian,
+an,Colorado , Coloradan,
+an,Corsica , Corsican,
+an,Crete , Cretan,
+an,Crimea , Crimean,
+an,Cumbria , Cumbrian,
+an,Dalmatia , Dalmatian,
+an,Delaware , Delawarean,
+an,District of Columbia , Washingtonian,
+an,Extremadura , Extremaduran,
+an,Florida , Floridan,
+an,Galicia , Galician,
+an,Galilee , Galilean,
+an,Gaza Strip , Gazan,
+an,Hawaiʻi , Hawaiian,
+an,Hebrides , Hebridean,
+an,Idaho , Idahoan,
+an,Illinois , Illinoisan,
+an,Indiana , Hoosier,
+an,Iowa , Iowan,
+an,Jakarta , Jakartan,
+an,Java , Javans,
+an,Johor , Johorean,
+an,Judea , Judean,
+an,Kansas , Kansan,
+an,Karelia , Karelian,
+an,Kayah State , Kayahan,
+an,Kedah , Kedahan,
+an,Kentucky , Kentuckian,
+an,Kerala , Keralit,
+an,Khyber Pakhtunkhwa , Pathan,
+an,Liguria , Ligurian,
+an,Louisiana , Louisianan,
+an,Madeira , Madeiran,
+an,Malacca , Malaccan,
+an,Majorca , Majorcan,
+an,Mandalay , Mandalayan,
+an,Manitoba , Manitoban,
+an,Maryland , Marylander,
+an,Masuria , Masurian,
+an,Menorca , Menorcan,
+an,Minnesota , Minnesotan,
+an,Mississippi , Mississippian,
+an,Missouri , Missourian,
+an,Moluccas , Moluccan,
+an,Montana , Montanan,
+an,Moravia , Moravian,
+an,Nebraska , Nebraskan,
+an,Nevada , Nevadan,
+an,New Jersey , New Jerseyan,
+an,New Mexico , New Mexican,
+an,Newfoundland, Newfoundlander,
+an,Normandy , Norman,
+an,North Dakota , North Dakotan,
+an,Northwest Territories , Northwest Territorian,
+an,Nova Scotia , Nova Scotian,
+an,Ohio , Ohioan,
+an,Oklahoma , Oklahoman,
+an,Ontario , Ontarian,
+an,Oregon , Oregonian,
+an,Otago , Otagan,
+an,Papua , Papuan,
+an,Patagonia , Patagonian,
+an,Pennsylvania , Pennsylvanian,
+an,Pomerania , Pomeranian,
+an,Samogitia , Samogitian,
+an,Sabah , Sabahan,
+an,Sardinia , Sardinians,
+an,Saskatchewan , Saskatchewanians,
+an,Silesia , Silesian,
+an,Slavonia , Slavonian,
+an,South Australia , South Australian,
+an,South Dakota , South Dakotan,
+an,Styria , Styrian,
+an,Sumatra , Sumatran,
+an,Sumba , Sumban,
+an,Sumbawa , Sumbawan,
+an,Syrmia , Syrmian,
+an,Tahiti , Tahitian,
+an,Tamil Nadu , Tamila,
+an,Taranaki , Taranakian,
+an,Tasmania , Tasmanians,
+an,Tennessee , Tennessean,
+an,Texas , Texan,
+an,Thuringia , Thuringian,
+an,Transnistria , Transnistrian,
+an,Transylvania , Transylvanian,
+an,Umbria , Umbrian,
+an,Utah , Utahns,
+an,Victoria , Victorian,
+an,Virginia , Virginian,
+an,Waikato , Waikatorian,
+an,Wake Island , Wakean,
+an,Wallachia , Wallachian,
+an,Western Australia , Western Australian,
+an,West Papua , West Papuan,
+an,Westphalia , Westphalian,
+an,Wisconsin , Wisconsinite,
+an,Aberdeen , Aberdonian,
+an,Adelaide , Adelaidean,
+an,Alexandria , Alexandrian,
+an,Albuquerque , Albuquerqueans,
+an,Annapolis , Annapolitan,
+an,Atlanta , Atlantan,
+an,Baltimore , Baltimorean,
+an,Bath , Bathonian,
+an,Bristol , Bristolian,
+an,Brockton , Brocktonian,
+an,Bogotá , Bogotan,
+an,Canberra , Canberran,
+an,Charlotte , Charlottean,
+an,Chattanooga , Chattanoogan,
+an,Chicago , Chicagoan,
+an,Cincinnati , Cincinnatian,
+an,Clitheroe , Clitheronian,
+an,Coimbatore , Coimbatoreian,
+an,Coventry , Coventrian,
+an,Danu , Danuan,
+an,Derby , Derbeian,
+an,Dundee , Dundonian,
+an,El Paso , El Pasoan,
+an,Galway , Galwegian,
+an,Glasgow , Glaswegian,
+an,Hanoi , Hanoian,
+an,Hobart , Hobartian,
+an,Indianapolis , Indianapolitan,
+an,Istanbul , Istanbulite,
+an,Izmir , Izmirian,
+an,Kalamazoo , Kalamazooan,
+an,Kyiv , Kyivan,
+an,Kolkata , Calcuttan,
+an,Las Vegas , Las Vegan,
+an,Liverpool , Liverpudlian,
+an,Madera , Maderan,
+an,Manchester , Mancunian,
+an,Manila , Manilans,
+an,Mecca , Meccan,
+an,Medina , Medinan,
+an,Miami , Miamian,
+an,Milwaukee , Milwaukeean,
+an,Minneapolis , Minneapolitan,
+an,Naypyidaw , Naypyidawan,
+an,Ngawi city , Ngawian,
+an,Oklahoma City , Oklahoma Cityan,
+an,Ottawa , Ottawan,
+an,Philadelphia , Philadelphian,
+an,Pisa , Pisan,
+an,Pueblo , Puebloan,
+an,Regina , Reginan,
+an,Riga , Rigan,
+an,Rome , Roman,
+an,Sacramento , Sacramentan,
+an,Salem , Salemian,
+an,San Antonio , San Antonian,
+an,San Diego , San Diegan,
+an,San Francisco , San Franciscan,
+an,San Jose , San Josean,
+an,Sarasota , Sarasotan,
+an,Sioux City , Sioux Cityan,
+an,Springville , Springvillian,
+an,Sofia , Sofian,
+an,St. Louis , St. Louisan,
+an,Surabaya , Surabayan,
+an,Tauranga , Taurangian,
+an,Thebes , Theban,
+an,"Toledo, Ohio ", Toledoan,
+an,Tucson ,Tucsonan,
+an,Tulsa , Tulsan,
+an,Utica , Utican,
+an,Valencia , Valencian,
+an,Vilnius , Vilnian,
+ian,Yuma , Yumian,
+ian,Artsakh , Artsakhian,
+ian,Azerbaijan , Azerbaijanians,
+ian,Bahamas , Bahamian,
+ian,Barbados , Barbadians,
+ian,Belarus , Belarusian,
+ian,Belgium , Belgian,
+ian,Brazil , Brazilian,
+ian,Cameroon , Cameroonian,
+ian,Cayman Islands , Caymanian,
+ian,Chad , Chadian,
+ian,Comoros , Comorian,
+ian,Ecuador , Ecuadorian,
+ian,Egypt , Egyptian,
+ian,Ghana , Ghanaian,
+ian,Gibraltar , Gibraltarian,
+ian,Grenada , Grenadian,
+ian,Iran , Iranian,
+ian,Italy , Italian,
+ian,Jordan , Jordanian,
+ian,Maldives , Maldivian,
+ian,Palestine , Palestinian,
+ian,Peru , Peruvian,
+ian,Saint Vincent , Vincentian,
+ian,Trinidad and Tobago , Trinidadian,
+ian,Ukraine , Ukrainian,
+ian,Aarhus , Aarhusian,
+ian,Alabama , Alabamian,
+ian,Argyll , Argathelian,
+ian,Athens , Athenian,
+ian,Ayeyarwady, Ayeyarwadian,
+ian,Banat , Banatian,
+ian,Ballarat , Ballaratian,
+ian,Bareilly , Bareillia,
+ian,Bengaluru , Banglorean,
+ian,Banten , Bantenian,
+ian,Belgrade , Belgradian,
+ian,Bermuda , Bermudian,
+ian,Blackburn , Blackburnian,
+ian,Blackpool , Blackpudlian,
+ian,Bangkok , Bangkokian,
+ian,Boston , Bostonian,
+ian,Bracknell , Bracknellian,
+ian,Bradford , Bradfordian,
+ian,Brighton , Brightonian,
+ian,Brisbane , Brisbanian,
+ian,Bukovina , Bukovinia,
+ian,Burgundy , Burgundian,
+ian,Calgary , Calgarian,
+ian,Canary, Canarian,
+ian,Canterbury, Cantabrian,
+ian,Cape Town ,Capetonian,
+ian,Castile , Castilian,
+ian,Catalonia , Catalonian,
+ian,Cedar Rapids , Cedar Rapidian,
+ian,Chelmsford , Chelmsfordian,
+ian,Chester , Cestrian,
+ian,Chin State , Chinian,
+ian,Chittagong , Chittagonian,
+ian,Christchurch , Christchurchian,
+ian,Cirebon , Cirebonian,
+ian,Corinth , Corinthian,
+ian,Darwin , Darwinian,
+ian,Dayton , Daytonian,
+ian,Devon , Devonian,
+ian,Duluth , Duluthian,
+ian,Edmonton , Edmontonian,
+ian,Fort Worth , Fort Worthian,
+ian,Fredericton , Frederictonian,
+ian,Greenville , Greenvillian,
+ian,Hamilton , Hamiltonian,
+ian,Harrow , Harrovian,
+ian,Hartlepool , Hartlepudlian,
+ian,Hereford , Herefordian,
+ian,Herzegovina , Herzegovinian,
+ian,Hesse , Hessian,
+ian,Houston , Houstonian,
+ian, Scilly , Scillonian,
+ian,Iowa City , Iowa Citian,
+ian,Jessup , Jessupian,
+ian,Kachin, Kachinian,
+ian,Kansas City , Kansas Citian,
+ian,Kingston , Kingstonian,
+ian,Laguna , Lagunians,
+ian,Lancashire , Lancastrian,
+ian,Lancaster , Lancastrian,
+ian,Lesbos , Lesbian,
+ian,Lethbridge , Lethbridgian,
+ian,Lexington , Lexingtonian,
+ian,Louisville , Louisvillian,
+ian,Madison , Madisonian,
+ian,Madrid , Madrilenian,
+ian,Maharashtra , Maharashtrians,
+ian,McKinney , McKinnian,
+ian,Melbourne , Melburnian,
+ian,Memphis , Memphian,
+ian,Michigan , Michiganians,
+ian,Mobile, Mobilia,
+ian,Nelson , Nelsonian,
+ian,New Guinea , New Guinian,
+ian,New Orleans , New Orleanian,
+ian,North Carolina , North Carolinian,
+ian,Paris , Parisian,
+ian,Perlis , Perlisian,
+ian,Perak , Perakian,
+ian,Peterborough , Peterborian,
+ian,Phoenix , Phoenician,
+ian,Plymouth , Plymothian,
+ian,Port Harcourt , Harcourtian,
+ian,Podgorica , Podgorician,
+ian,Prince George's County , Prince Georgian,
+ian,Rivers State , Riverian,
+ian,Rochdale , Rochdalian,
+ian,Rockwall, Rockwallian,
+ian,Rockwall County, Rockwallian,
+ian,Saint Petersburg , Saint Petersburgians,
+ian,Sarawak , Sarawakian,
+ian,Saskatoon , Saskatonian,
+ian,Savannah , Savannahian,
+ian,Shrewsbury , Salopian,
+ian,Sicily , Sicilian,
+ian,Solihull , Silhillian,
+ian,South Carolina , South Carolinian,
+ian,Stockport , Stopfordian,
+ian,Swindon , Swindonian,
+ian,Tanintharyi, Tanintharian,
+ian,Telford , Telfordian,
+ian,Thrace , Thracian,
+ian,Towcester , Towcestrian,
+ian,Truro , Truronian,
+ian,Tuban, Tubanian,
+ian,Washington , Washingtonian,
+ian,Wellington , Wellingtonian,
+ian,Wilmington , Wilmingtonian,
+ian,Yukon , Yukonian,
+anian,Guam , Guamanian,
+anian,Mawlamyine , Mawlamanian,
+nian,Bendigo , Bendigonian,
+nian,Buffalo , Buffalonian,
+nian,Cork , Corkonian,
+nian,Naga , Naganian,
+nian,Panama , Panamanian,
+nian,Sligo , Sligonian,
+nian,Tampa , Tampanian,
+nian,Tobago , Tobagonian,
+nian,Toronto , Torontonian,
+nian,Torquay , Torquinian,
+nian,Wa , Wanian,
+ine,Byzantium , Byzantine,
+ine,Florence , Florentines,
+ine,Gilbert Islands , Gilbertines,
+ine,The Levant , Levantine,
+ine,Montenegro , Montenegrin,
+ine,Palatinate , Palatine,
+ine,Philippines , Philippine,
+ine,Philistia , Philistine,
+in,Lucena , Lucenahin,
+in,Tayabas , Tayabasin,
+in,Lucban , Lucbanin,
+in,Infanta , Infantahin,
+in,Sariaya , Sariayahin,
+in,Brgy. Isabang , Isabangin,
+in,Brgy. Morong , Morongin,
+ano,Bicol , Bicolano,
+ano,Cebu , Cebuano,
+ano,Belo Horizonte , Belo-horizontino,
+ano,Caguas,Cagueno,
+ano,Cainta , Cainteño,
+ano,Cavite , Caviteño,
+ano,Daraga , Daragueño,
+ano,Davao City , Davaoeño,
+ano,Iriga , Irigueño,
+ano,Legazpi , Legazpeño,
+ano,Ligao , Ligaoeño,
+ano,Los Angeles , Angeleno,
+ano,Masbate , Masbateño,
+ano,San Pablo , San Pableño,
+ano,São Paulo , Paulistano,
+ano,Tabaco , Tabaqueño,
+ano,Zamboanga City , Zamboangueño,
+ite,Akron , Akronite,
+ite,Andhra, Andhrite,
+ite,Ann Arbor , Ann Arborite,
+ite,Austin , Austinite,
+ite,Bagansiapiapi , Bagansiapiapite,
+ite,Baku , Bakuvite,
+ite,Bergen County, Bergenite,
+ite,Boulder , Boulderite,
+ite,Bronx , Bronxite,
+ite,Brooklyn , Brooklynite,
+ite,Carson , Carsonite,
+ite,Chennai , Chennaiite,
+ite,Dallas , Dallasite,
+ite,Decatur , Decaturite,
+ite,Delhi , Delhite,
+ite,"Denton, Texas ", Dentonite,
+ite,Denver , Denverite,
+ite,Dhaka , Dhakaites,
+ite,Dubai , Dubaiite,
+ite,Dunedin , Dunedinite,
+ite,Durban , Durbanite,
+ite,Erie, Erieite,
+ite,Gaya , Gayaite,
+ite,Guelph , Guelphite,
+ite,Irmo, Irmite,
+ite,Jerusalem , Jerusalemite,
+ite,Karachi , Karachiite,
+ite,Kweyol , Kweyolite,
+ite,Labuan Bajo , Labuan Bajoite,
+ite,Leicester , Leicesterit,
+ite,Manhattan , Manhattanite,
+ite,Mon State , Monite,
+ite,Moscow , Muscovites,
+ite,Montpelier, Montpelierite,
+ite,Mumbai , Mumbaiite,
+ite,New Hampshire , New Hampshirite,
+ite,Norman, Normanite,
+ite,Oban , Obanite,
+ite,Odesa , Odesite,
+ite,Pahang , Pahangite,
+ite,Patna , Patnaite,
+ite,Penang , Penangit,
+ite,Perth , Perthites,
+ite,Pullman , Pullmanite,
+ite,Putney , Putneyite,
+ite,Queens , Queensite,
+ite,Reading , Readingite,
+ite,Ruskin, Ruskinite,
+ite,Seattle , Seattleite,
+ite,Seoul , Seoulite,
+ite,Shiloh , Shilonites,
+ite,Shillong , Shillongite,
+ite,Smyrna, Smynit,
+ite,Spokane , Spokanite,
+ite,Sydney , Sydneyites,
+ite,Telangana, Telanganite,
+ite,Tokyo , Tokyoite,
+ite,Vancouver , Vancouverite,
+ite,Vizag , Vizagite,
+ite,Warangal , Warangalite,
+ite,Wenham, Wenhamite,
+ite,Westchester County, Westchesterite,
+ite,Whittier, Whittierite,
+ite,Winston-Salem , Winston-Salemite,
+ite,Wrexham , Wrexhamite,
+ite,Wyoming , Wyomingite,
+ite,Yangon , Yangonite,
+er,Amsterdam , Amsterdammer,
+er,Auckland , Aucklander,
+er,Beijing , Beijinger,
+er,Bergen , Bergener,
+er,Berlin , Berliner,
+er,Bucharest , Bucharester,
+er,Budapest , Budapester,
+er,Cleveland , Clevelander,
+er,Cook Islands , Cook Islander,
+er,Copenhagen , Copenhagener,
+er,Detroit , Detroiter,
+er,Dublin , Dubliner,
+er,Dresden , Dresdener,
+er,Fife , Fifer,
+er,Frankfurt , Frankfurter,
+er,Greenland , Greenlanders,
+er,Hamburg , Hamburger,
+er,Hannover , Hannoveraner,
+er,Hong Kong , Hongkonger,
+er,Iceland , Icelanders,
+er,Kosovo, Kosovars,
+er,Leeds , Loiner,
+er,Leipzig , Leipziger,
+er,Liechtenstein , Liechtensteiner,
+er,London , Londoner,
+er,Lorraine , Lorrainer,
+er,Luxembourg , Luxembourger,
+er,Maine , Mainer,
+er,Montreal , Montrealer,
+er,Netherlands , Netherlanders,
+er,New Brunswick , New Brunswicker,
+er,New England , New Englander,
+er,New York , New Yorker,
+er,New Zealand , New Zealanders,
+er,Newfoundland , Newfoundlander,
+er,Oakland , Oaklander,
+er,Pangkal Pinang , Pangkalpinanger,
+er,Pittsburgh , Pittsburgher,
+er,Prague , Praguer,
+er,Prince Edward Island , Prince Edward Islander,
+er,Puntland , Puntlander,
+er,Quebec , Quebecker,
+er,Queensland , Queenslander,
+er,Rhineland , Rhinelander,
+er,Rhode Island , Rhode Islander,
+er,Rotterdam , Rotterdammer,
+er,Saigon , Saigoner,
+er,Solomon Islands , Solomon Islander,
+er,Stockholm , Stockholmer,
+er,Stuttgart , Stuttgarter,
+er,Tallinn , Tallinner,
+er,Vermont , Vermonter,
+er,Winnipeg , Winnipegger,
+er,Yellowknife , Yellowknifer,
+er,York (UK) , Yorker,
+er,Zurich , Zuricher,
+ish,Åland ,Ålandish,
+ish,"Britain, Great Britain and United Kingdom ",British,
+ish,Cornwall ,Cornish,
+ish,Denmark ,Danish,
+ish,England ,English,
+ish,Finland ,Finnish,
+ish,Flanders ,Flemish,
+ish,Ireland ,Irish,
+ish,Kent ,Kentish,
+ish,Kurdistan ,Kurdish,
+ish,Lombok ,Lombokish,
+ish,Niger ,Northern Irish,
+ish,Northern Ireland ,Northern Irish,
+ish,Poland ,Polish,
+ish,Scotland ,Scottish,
+ish,Spain ,Spanish,
+ish,Sweden ,Swedish,
+ish,Wales ,Welsh,
+ene,Cairo , Cairene,
+ene,Cyrenaica , Cyrene,
+ene,Damascus , Damascene,
+ene,Nazareth , Nazarene,
+ene,Palmyra , Palmyrene,
+ian,Reading , Readingensian,
+ard,Savoy , Savoyard,
+ard,Montagne , Montagnard,
+ard,Shafter, Shaftard,
+ese,Abruzzo , Abruzzese,
+ese,Ajman , Ajmanese,
+ese,Aragon , Aragonese,
+ese,Aceh , Acehnese,
+ese,Assam , Assamese,
+ese,Bali , Balinese,
+ese,Bengal , Bengalese,
+ese,Benin , Beninese ,
+ese,Bern , Bernese,
+ese,Bearn , Bearnese,
+ese,Bhutan , Bhutanese,
+ese,Bologna , Bolognese,
+ese,Burkina Faso , Burkinese ,
+ese,Calabria , Calabrese,
+ese,Cirebon, Cirebonese,
+ese,China , Chinese,
+ese,Congo , Congolese,
+ese,Da Lat , Dalatese,
+ese,East Timor , East Timorese,
+ese,Faroe Islands , Faroese,
+nese,Emirate of Fujairah , Fujairahnese,
+ese,Gabon , Gabonese ,
+ese,Genoa ,Genoese,
+ese,Grenadines , Grenadinese,
+ese,Guangdong, Cantonese,
+ese,Guyana , Guyanese,
+ese,Hainan , Hainanese,
+ese,Hunan , Hunanese,
+ese,Japan , Japanese ,
+ese,Kawthaung , Kawthaunggese,
+ese,Kelantan , Kelantanese,
+ese,Kokang , Kokanggese,
+ese,Lebanon , Lebanese,
+ese,Leon , Leonese,
+nese,Macao , Macanese,
+ese,Malta , Maltese,
+ese,Marshall Islands , Marshallese,
+ese,Milan , Milanese,
+ese,Burma , Burmese ,
+ese,Navarre , Navarrese,
+nese,Negeri Sembilan , Negeri Sembilanese,
+ese,Pa Laung , Palaunggese,
+ese,Pa'O , Paonese,
+ese,Piedmont , Piedmontese,
+ese,Portugal , Portuguese,
+nese,Rakhine State , Arakanese,
+nese,Ras Al Khaimah , Khaimahnese,
+nese,Saba , Sabanese,
+ese,Sagaing Region , Sagainggese,
+nese,San Marino , Sammarinese,
+ese,Sark , Sarkese,
+ese,Sassari , Sassarese,
+ese,Senegal , Senegalese,
+nese,Shan State , Shanese,
+ese,Shanghai , Shanghaiese,
+nese,Emirate of Sharjah , Sharjahnese,
+ese,Siam , Siamese,
+ese,Sikkim , Sikkimese,
+ese,Suriname , Surinamese,
+ese,Taiwan , Taiwanese,
+ese,Taunggyi , Taunggese,
+ese,Tegal, Tegalese,
+ese,Togo , Togolese,
+ese,Turin , Torinese,
+ese,Umm Al Quwain , Quwainese,
+ese,Vienna , Viennese,
+ese,Vietnam , Vietnamese,
+i,Bahrain ,Bahraini,
+i,Bangladesh , Bangladeshi,
+i,Iraq ,Iraqi,
+i,Kazakhstan ,Kazakhstani,
+i,Kuwait ,Kuwaiti,
+i,Kyrgyzstan ,Kyrgyzstani,
+i,Nepal ,Nepali,
+i,Oman ,Omani,
+i,Qatar ,Qatari,
+i,Tajikistan ,Tajikistani,
+i,Thailand ,Thai,
+i,Turkmenistan ,Turkmenistani,
+i,United Arab Emirates ,Emirati,
+i,Uzbekistan ,Uzbekistani,
+i,Yemen ,Yemeni,
+i,Allahabad ,Allahabadi,
+i,Azawad ,Azawadi,
+i,Azra ,Azragi,
+i,Balochistan ,Balochistani,
+i,Barisal ,Barisali,
+i,Beirut ,Beiruti,
+i,Bangladesh,Bengali,
+i,Bharat ,Bharatiy,
+i,Bihar ,Bihar,
+i,Dagestan ,Dagestan,
+i,Faridabad ,Faridabad,
+i,Gujarat ,Gujarat,
+i,Hazara ,Hazaragi,
+i,Hyderabad ,Hyderabadi,
+i,Kumaon ,Kumaon,
+i,Lahore ,Lahori,
+i,Punjab ,Punjabi,
+i,Rajasthan ,Rajasthani,
+i,Rangpur ,Rangpuri,
+i,Sindh ,Sindhi,
+i,Sylhet ,Sylheti,
+i,Yorkshire ,Yorkie,
+ot,Chios ,Chiot,
+ot,Corfu ,Corfiot,
+ot,Cyprus ,Cypriot,
+iote,Phanar ,Phanariote,
+asque,Bergamo , Bergamasque,
+asque,Menton , Mentonasque,
+asque,Basque Country , Basque,
+asque,Sanremo , Sanremasque,
+gian,Dawei ,Dawegian,
+gian,Galloway ,Galwegian,
+gian,Magway Region ,Magwegian,
+gian,Norway ,Norwegian,
+gian,"Poway, CA",Powegian,
+onian,Connacht ,Connachtonian,
+onian,Halifax ,Haligonian,
+onian,Lesotho ,Lesothonian,
+onian,Newport ,Newportonian,
+vian,Oxford ,Oxonian,
+vian,Barrow-in-Furness ,Barrovian,
+vian,Moose Jaw ,Moose Javian,
+vian,Oamaru ,Oamaruvian,
+vian,Oslo ,Oslovian,
+vian,Warsaw ,Warsovian,
+vian,Waterloo ,Waterluvian,
+vian,Wythenshawe ,Wythenshavian,
+ois,Seychelles , Seychellois,
+anes,Guayana,guayanes,Venezuela
+ian,Yanggok,Yangkokian,South Korea
+ano,Paranaque,Paranaqueano,Philippines
+i,Sialkot,Sialkoti,Pakistan
+eano,Makati,Makiteano,Philippines
+an,Baton Rouge,Baton Rougean,United States
+er,New Haven,New Havener,United States
+eano,Muntinlupa,Muntinlupeano,Philippines
+eano,Calamba,Calambeano,Philippines
+eano,Pasay,Pasayeano,Philippines
+eano,Marikina,Marikeano,Philippines
+an,Santa Fe,Santa Fean,Argentina
+ano,San-Pedro,San Pedrano,United States
+es,Cumana,Cumanes,Venezuela
+i,Malerkotla,Malerkotli,India
+ense,Montes Claros,Montes-clarense,Brazil
+ense,Vitoria,vitoriense,Brazil
+oit,Malmo,Malmoit,Sweden
+ero,Holguin,Holguinero,Cuba
+i,Ganca,Gancai,Azerbaijan
+er,Fort Wayne,Fort Wayner,United States
+ano,Camaguey,Camagueyano,Cuba
+an,Timisoara,timisorean,Romania
+ero,Tehuacan,Tehuacanero,Mexico
+ero,Santa Ana,Santanero ,United States
+i,Nizamabad,Nizamabadi,India
+ense,Ponta Grossa,pontagrossense,Brazil
+wi,Raqqa,Raqqawi,Syria
+ean,Brasov,brasovean,Romania
+ian,Setif,Setifian,Algeria
+ense,Punto Fijo,Puntofijense,Venezuela
+ense,Varzea Grande,varzeagrandense,Brazil
+ense,Camacari,camacariense,Brazil
+er,Shreveport,Shreveporter,United States
+aner,Aarhus,Aarhusianer,Denmark
+ean,Constanta,constantean,Romania
+an,Temuco,Temucan,Chile
+ite,Plano,Planoite,United States
+es,Gijon,gijones,Spain
+ense,Maraba,marabaense,Brazil
+ite,Lubbock,Lubbockite,United States
+ian,Etawah,Etawian,India
+ian,Puducherry,Puducherrian,India
+n,Peoria,Peorian,United States
+eno,Turmero,Turmereno,Venezuela
+ian,McKinney,McKinnian,United States
+ense,Parana,Paranaense,Argentina
+i,Gyor,Gyori,Hungary
+ino,Tarapoto,Tarapotino,Peru
+i,Szeged,szegedi,Hungary
+ense,Viamao,viamonense,Brazil
+eano,Envigado,Envigadeano,Colombia
+ense,Fresnillo,Fresnillense,Mexico
+ian,Evansville,Evansvillian,United States
+ais,Rennes,Rennais,France
+ense,Chapeco,Chapecoense,Brazil
+ian,Tiptur,Tipturians,India
+enc,Sabadell,Sabadellenc,Spain
+eano,Tulua,Tulueano,Colombia
+ian,Appleton,Appletonian,United States
+ano,Sete Lagoas,sete-lagoano,Brazil
+eano,Mostoles,Mostoleano,Spain
+ano,Padova,Padovano,Italy
+ian,Kalamazoo,Kalamazooian,United States
+n,Arica,Arican,Chile
+ite,Khammam,Khammamite,India
+eano,Zipaquira,Zipaquireano,Colombia
+eano,Acarigua,Acarigueano,Venezuela
+ian,Grand Prairie,Grand Prairian,United States
+eano,Tanauan,Tanaueano,Philippines
+ian,Richmond Hill,Richmond Hillian,Canada
+tian,Florencia,FlorentineItalian,Colombia
+i,Kecskemet,kecskemeti,Hungary
+eano,Guatire,Guatireano,Venezuela
+ian,Barakpur,Barrakpurian,India
+eano,Dagupan,Dagupeano,Philippines
+ian,Albacete,Albacetian,Spain
+ian,Barrie,Barrian,Canada
+er,Cape Coast,Cape Coaster,Ghana
+i,Medinipur,Medinipuri,India
+iya,Jamalpur,Jamalpuriya,Bangladesh
+i,Baramula,Baramulli,India
+ite,Palmdale,Palmdalite,United States
+eano,Tuguegarao,Tuguegaraoeano,Philippines
+ense,Chillan,Chillanense,Chile
+an,San Marcos,San Marcoan,Costa Rica
+ite,Andong,Andongite,South Korea
+ais,Dijon,Dijonnais,France
+aar,Apeldoorn,Apeldoornaar,Netherlands
+ense,Ibirite,ibiriteense,Brazil
+i,Veraval,Veravali,India
+ian,Harrow,Harrovian,United Kingdom
+ian,Champaign,Champaignian,United States
+ese,Araguaina,Araguainese,Brazil
+n,Valdivia,Valdivian,Chile
+ian,Lake Charles,Lake Charlesian,United States
+ian,Naperville,Napervillian,United States
+ian,Sibiu,sibian,Romania
+ian,Osorno,Osornian,Chile
+ian,Binghamton,Binghamtonian,United States
+an,Topeka,Topekan,United States
+eano,Yopal,Yopaleano,Colombia
+i,Mandsaur,Mandsauri,India
+n,Las Cruces,Las Crucen,United States
+i,Pecs,pecsi,Hungary
+ano,Dumaguete,Dumagueteano,Philippines
+i,Birganj,Birganji,Nepal
+an,Curico,Curican,Chile
+ean,Targu-Mures,targumuresean,Romania
+ino,Conchali,Conchalino,Chile
+eano,Daraga,Daragueano,Philippines
+ni,Mataro,Mataroni,Spain
+an,Odessa,Odesan,United States
+ense,Teofilo Otoni,teofilo-otonense,Brazil
+i,Veszprem,veszpremi,Hungary
+kar,Gondia,Gondiakar,India
+an,Palakkad,Palakkadan,India
+eano,Girardot,Girardoteano,Colombia
+wasi,Mothihari,Motihariwasi,India
+i,Hoshangabad,Hoshangabadi,India
+ense,Araras,Ararense,Brazil
+ano,Mosquera,Mosqueruno,Colombia
+are,Orebro,Orebroare,Sweden
+eano,Guasdualito,Guasdualiteano,Venezuela
+i,Salmas,Salmasi,Iran
+ense,Duitama,Duitamense,Colombia
+ense,Barbacena,Barbacenense,Brazil
+ano,Ponce,Ponceano,Puerto Rico
+tsi,Gyumri,Gyumretsi,Armenia
+ense,Gapan,Gapanense,Philippines
+ero,Maicao,Maicaero,Colombia
+ense,Barretos,Barretense,Brazil
+ense,Apucarana,Apucaranense,Brazil
+ense,Alcobendas,Alcobendense,Spain
+i,Sopur,Sopori,India
+ian,Duluth,Duluthian,United States
+ino,San Rafael,San Rafaelino,Argentina
+er,Round Rock,Round Rocker,United States
+ano,Piedecuesta,Piedecuestano,Colombia
+ino,Coronel,Coronelino,Chile
+ak,Durres,Durrsak,Albania
+ero,Turbaco,Turbaquero,Colombia
+eano,Sogamoso,Sogamoseano,Colombia
+er,Kristiansand,Kristiansander,Norway
+er,Alkmaar,Alkmaarder,Netherlands
+ite,Ioannina,Ioannite ,Greece
+in,Tayabas,Tayabasin,Philippines
+ni,Utica,Utican,United States
+i,Kaposvar,kaposvari,Hungary
+n,Costa Mesa,Costa Mesan,United States
+an,Chico,Chicoan,United States
+anon,Baybay,Baybayanon,Philippines
+ense,Colatina,colatinense,Brazil
+i,Firozpur,Firozpuri,India
+er,Drammen,Drammenser,Norway
+ano,Itabira,itabirano,Brazil
+ense,Carmona,Carmonense,Philippines
+naar,Delft,Delftenaar,Netherlands
+ense,Telde,Teldense,Spain
+eano,San German,Sangermeano,Puerto Rico
+ense,Igarassu,Igarassuense,Brazil
+en,Deventer,Deventernaren,Netherlands
+an,Geita,Geitan,Tanzania
+no,Jinotega,Jinotegano,Nicaragua
+i,Sopron,soproni,Hungary
+on,Catarman,Catarmanon,Philippines
+ino,Tumbes,Tumbesino,Peru
+ais,Leogane,Leoganais,Haiti
+i,Netrakona,Netrokoni,Bangladesh
+an,San Leandro,San Leandran,United States
+ense,Babahoyo,Babahoyense,Ecuador
+esi,Catanzaro,Catanzaresi,Italy
+ense,Campo Formoso,campo-formosense,Brazil
+ian,Handeni,Handenian,Tanzania
+ano,Yauco,Yaucano,Puerto Rico
+ense,Tamazunchale,Tamazunchalense,Mexico
+ac,Pancevo,Pancevac,Serbia
+on,Borongan,Boronganon,Philippines
+i,Zinjibar,Zanzibari,Yemen
+an,South San Francisco,South San Franciscan,United States
+ian,Barrow,Barrovian,United Kingdom
+ano,San Pedro,San Pedrano,Mexico
+er,Oak Park,Oak Parker,United States
+n,Covina,Covinan,United States
+enc,San Feliu de Llobregat,Sanfeliuenc,Spain
+karan,Varkkallai,Varkalakkaran,India
+karan,Paravurkambolam, Paravurkkaran,India
+eano,San Roque,Sanroqueano,Philippines
+esi,Sant'Antimo,Santantimesi,Italy
+ian,Park Ridge,Park Ridgian,United States
+enc,Premia de Mar,Premianenc,Spain
+wi,Al Qunaytirah, Qunayt­irawi,Syria
+ense,Riccione Marina,Riccionese,Italy
+ian,Huntington,Huntingtonian,United States
+n,Nibria,Nibrian,India
+i,Benetuser,Benetussi,Spain
+ian,Port Chester,Port Chesterian,United States
+esi,Garbagnate,Garbagnatesi,Italy
+karan,Karunagapalli,Karunagapallikkaran,India
+an,Bailleston,Bailliestonian,United Kingdom
+ense,Oxkutzkab,Oxkutzcabense,Mexico
+enc,Vilasar,Vilassarenc,Spain
+er,Melrose Park,Melrose Parker,United States
+ois,Coudekerque,Coudekerquois ,France
+er,Blue Island,Blue Islander,United States
+esi,Trentola,Trentolesi,Italy
+ense,Hidalgo,Hidalguense,Mexico
+enc,Malgrat,Malgratenc,Spain
+ense,El Astillero,Astillerense,Spain
+ense,Pureparo de Echaiz,Pureperense,Mexico
+enc,Arenys de Mar,Arenyenc,Spain
+i,Balaungi,Balaungiri,India
+enc,Canet de Mar,Canetenc,Spain
+ian,Milford,Milfordian,United Kingdom
+esi,Monte di Procida,Montesi,Italy
+i,Bahagalpur,Bhagalpuri,India
+ese,Bijelo Polje,Belopoljese,Montenegro
+vi,Patalia,Patialvi,India
+ense,Cuencame de Ceniceros,Cuencamense,Mexico
+ense,Malvinas,malvinense,Argentina
+wasi,Mithila,Mithilawasi,India
+er,Flower Hill,Flower Hiller,United States
+eano,San Luis de La Loma,sanluiseano,Mexico
+ci,Novi Becej,novobejci,Serbia
+i,Rampur,Rampuri,India
+ian,Pierre-Benite,Pierre-Benitain,France
+esi,San Marzano,Sanmarzanesi,Italy
+ian,North Merrick,North Merokian,United States
+i,Gangapur,Ganagapuri,India
+esi,Torre Boldone,Torreboldonesi,Italy
+ian,Northbrook,Northbrookian,United States
+enc,La Massana,massanenc,Andorra
+i,Mqabba,Mqabbi ,Malta
+ense,Porto Ingles,Portuense,Cabo Verde
+eano,Las Rozas de Madrid,roceano,Spain
+ense,Abreu e Lima,Abreu-limense,Brazil
+ini,La Spezia,Spezzini,Italy
+ense,La Grita,Gritense,Venezuela
+ian,Rapid City,Rapid Citian,United States
+ense,El Ejido,Ejidense,Spain
+i,Khowrasgan,Khorasani,Iran
+ense,La Dorada,Doradense,Colombia
+ense,Para de Minas,Paraminense[3],Brazil
+ense,Los Patios,Patiense,Colombia
+ense,Villa Maria,villamariense,Argentina
+in,Pagbilao,Pagbilawin,Philippines
+ense,Pato Branco,pato-branquense,Brazil
+on,Pototan,Pototanon,Philippines
+ense,Santo Angelo,Santo-Angelense,Brazil
+ino,Padre Hurtado,Padrehurtadino,Chile
+eano,Ciudad Real,Ciudadrealeano,Spain
+ense,Belo Jardim,Belo-jardinense,Brazil
+ino,Juana Diaz,Juanadinos,Puerto Rico
+eano,Sanlucar de Barrameda,sanluqueano,Spain
+karan,Koyilandi,Koyilandikaran,India
+ense,Bom Jesus da Lapa,Lapense,Brazil
+i,Mansehra,Mansehri,Pakistan
+eano,Cuyapo,Cuyapeano,Philippines
+n,Yorba Linda,Yorba Lindan,United States
+ite,Eagan,Eaganite,United States
+ian,Porterville,Portervillian,United States
+ian,Etawa,Etawian,India
+eano,La Carlota,Carloteano,Philippines
+naar,Zeist,Zeistenaar,Netherlands
+eano,San Gil,Sangileano,Colombia
+an,Ferrol,ferrolan ,Spain
+n,Isabela,Isabelan,Philippines
+ian,Dhuburi,Dhubrian,India
+esi,Crotone,Crotonesi,Italy
+aner,Randers,Randrusianer,Denmark
+kar,Washim,Washimkar,India
+eano,Bansalan,Bansaleano,Philippines
+an,Chidambaram,Chidambaran,India
+ense,Cruz Alta,cruz-altense,Brazil
+ian,Widnes,Widnesian,United Kingdom
+ian,Reston,Restonian,United States
+ense,Tefe,tefeense,Brazil
+er,Kolding,Koldinger,Denmark
+eano,Candon,Candoneano,Philippines
+ais,Montauban,Montalbanais,France
+on,Cabatuan,Cabatuanon,Philippines
+esi,Fano,Fanesi,Italy
+ian,Panruti,Panrutian,India
+ani,Acerra,Acerrani,Italy
+ano,Villamaria,Villamariano,Colombia
+ani,Benevento,Beneventani,Italy
+ense,Camocim,Camocinense,Brazil
+ense,Uriangato,Uriangatense,Mexico
+an,Alcoy,Alcoyan,Spain
+eano,Motril,Motrileano,Spain
+i,Zahirabad,Zahirabadi,India
+kar,Wani,Wanikar,India
+er,Doetinchem,Doetinchemmer,Netherlands
+ni,Cerignola,Cerignolani,Italy
+eano,Lambayeque,Lambayecano,Peru
+ano,Pradera,Praderano,Colombia
+enaar,Roermond,Roermondenaar,Netherlands
+ese,Kawthoung,Kawthaunggese,Myanmar
+ense,Ciudad Cuauhtemoc,Cuauhtemense,Mexico
+eano,Monte Plata,Monteplateano,Dominican Republic
+ense,Coruripe,Coruripense,Brazil
+ense,Andradina,andradinense,Brazil
+ni,Manfredonia,Manfredoniani,Italy
+ense,Puerto Boyaca,Puertoboyacense,Colombia
+naar,Helder,Heldernaar,Netherlands
+wasi,Ayodhya,Ayodhyawasi,India
+esi,Trani,Tranesi,Italy
+an,Belampalli,bellampallian,India
+er,Tinley Park,Tinley Parker,United States
+ais,Narbonne,Narbonnais,France
+in,Mulanay,Mulanayin,Philippines
+esi,San Remo,Sanremesi,Italy
+ense,Barbalha,Barbalhense,Brazil
+ni,Modica,Modicani,Italy
+ani,Teramo,Teramani,Italy
+eano,Tarma,Tarmeano,Peru
+ese,Avellino,Avellinese,Italy
+ano,Tres Pontas,Trespontano,Brazil
+eano,Pasacao,Pasaqueano,Philippines
+ense,Elda,Eldense,Spain
+anon,Guiuan,Guiuananon,Philippines
+ni,Velletri,Veliterni,Italy
+an,Novato,Novatan,United States
+esi,San Severo,Sanseveresi,Italy
+an,Edina,Edinan,United States
+er,Alesund,Alesunder,Norway
+on,Naguilian,Naguilianon,Philippines
+ense,Torrelavega,Torrelaveguense,Spain
+ois,Belle-Anse,Belle-Ansois,Haiti
+ense,Campo Belo,Campo-belense,Brazil
+ini,Rovigo,Rodigini,Italy
+esi,Scandicci,Scandiccesi,Italy
+i,Tadmur,Tadmuri,Syria
+ian,Sibsagar,Sivsagarian,India
+ano,La Calera,Calerano,Chile
+anon,Donsol,Donsolanon,Philippines
+esi,Nettuno,Nettunesi,Italy
+er,Weert,Weerter,Netherlands
+ense,Alta Floresta,altaflorestense,Brazil
+tani,Monopoli,Monopolitani,Italy
+ense,Huaquillas,Huaquillense,Ecuador
+ian,Poway,Powegian,United States
+ian,Cedar Hill,Cedarhillian,United States
+eano,Sanare,Sanareano,Venezuela
+tano,Prudentopolis,prudentopolitano,Brazil
+ite,Bokaro,Bokaroite,India
+ini,Corato,Coratini,Italy
+ense,Diamantina,Diamantinense,Brazil
+nes,Penco,Pencones,Chile
+ses,Aquidauana,Aquidauanses,Brazil
+eano,Albuera,Albuereano,Philippines
+an,San Luis Obispo,San Luis Obispan,United States
+er,Aland,Ålander,India
+Alzira",Alziran,Spain
+ite,Haltom,Haltomite,United States
+esi,Alcamo,Alcamesi,Italy
+ian,Sainthia,Sainthian,India
+ese,Biella,Biellese,Italy
+ing,Lorenskog,Lorenskoging,Norway
+er,Noordwijk,Noordwijker,Netherlands
+i,Ellenabad,Ellenabadi,India
+an,Tongoma,Tongan,Sierra Leone
+ian,Svishtov,Svishtovian,Bulgaria
+in,Guinayangan,Guinayanganin,Philippines
+ense,Xanxere,Xanxerense,Brazil
+an,Lompoc,Lompocan,United States
+ino,Limache,Limachino,Chile
+er,Venray,Venrayenaar,Netherlands
+esi,Casale,Casalesi,Haiti
+i,Mahbubabad,Mahabubabadi,India
+esi,Civitanova,Civitanovesi,Italy
+ense,Cumaribo,cumaribense,Colombia
+ano,Entre Rios,entrerriano,Brazil
+ano,VeraCruz,Veracruzano,Brazil
+esi,Avezzano,Avezzanesi,Italy
+esi,Imperia,Imperiesi,Italy
+i,Maulavi Bazar,Moulvi bazari,Bangladesh
+ite,West Vancouver,West Vancouverite,Canada
+eano,Puerto Real,Puertorrealeano,Spain
+ian,Golaghat,Golaghatian,India
+ense,Jardinopolis,jardinopolense,Brazil
+ini,Cantu,Canturini,Italy
+ner,Fredericia,Fredericianer,Denmark
+eano,Guaduas,guadeano,Colombia
+ani,Marcianise,Marcianisani,Italy
+i,Abadan,Abadani,Turkmenistan
+an,Kilakkarai,Kilakaraian,India
+ino,Cauquenes,Cauquenino,Chile
+tani,Eboli,Ebolitani,Italy
+iya,Hailakandi,Hailakandiya,India
+ois,Draguignan,Dracenois,France
+ense,Tarauaca,tarauacaense,Brazil
+esi,Fasano,Fasanesi,Italy
+ero,La Rinconada,Rinconero,Spain
+tino,Plasencia,Placentino,Spain
+kar,Tasgaon,Tasgaonkar,India
+kar,Purna,Purnakar,India
+kar,Risod,Risodkar,India
+karan,Tiruchendur,Tiruchendoorkaran,India
+iya,Kareli,Kareliya,India
+kar,Satana,Satanakar,India
+an,Kangayam,Kangeyan,India
+i,Dinanagar,Dinanagari,India
+wasi,Areraj,Arerajwasi,India
+ian,Vadippatti,Vadipattian,India
+i,Afzalpur,Afzalpuri,India
+kar,Taloda,Talodekar,India
+ian,Mangaldai,Mangaldaian,India
+vi,Baheri,Bahervi,India
+ian,Jevargi,Jevargian,India
+an,Palakodu,Palakkadan,India
+ian,Muttupet,Muthupettaiyan,India
+i,Barhampur,Berhampuri,India
+ian,Parasi,Parasian,India
+kar,Narayankhed,Narayankhedkar,India
+iya,Kanpur,Kanpuriya,India
+i,Gandarbal,Ganderbali,India
+ian,Vennandur,Vennandurian,India
+ian,Manthani,Manthanian,India
+ian,Dirba,Dirbian,India
+karan,Mudukulattur,Mudukulatturkaran,India
+karan,Attur,Atturkaran,India
+ian,Belari,Ballarians,India
+ian,Yelur,Yelurian,India
+iya,Phulwar,Phulwariya,India
+i,Badarpur,Badarpuri ,India
+ian,Putaparti,Puttaparthian,India
+karan,Terkuvenganallur,Terkuvenganallurkaran,India
+kar,Siolim,Siolkar,India
+i,Bijaipur,Bijapuri,India
+i,Bhadarwah,Bhaderwahi,India
+kar,Pitlam,Pitlamkar,India
+ean,Mangalapuram,Mangalpurean,India
+i,Mansapur,Manaspuri,India
+ian,Ratnapuram,Ratnapurian,India
+iya,Sathmalpur,Sambalpuriya,India
+ar,Peraiyur,Peraiyurar,India
+ian,Puduvayal,Puduvayalian,India
+iya,Gidhaura,Gidhauriya,India
+kar,Manne Ekeli,Mannaekhallikar,India
+ian,Kirippatti,Kirippattian,India
+i,Shamshernagar,Shamshernagari,India
+karan,Sindalakkundu,Sindalakkundukaran,India
+ite,Mulug,Mulugite,India
+i,Laxmipur,Laxmipuri,India
+i,Jagannathpur,Jagannathpuri,India
+kar,Darwa,Darwhakar,India
+kar,Ghogaon,Ghogaonkar,India
+kar,Kawadgaon,Kaudgaonkar,India
+kar,Walur,Walurkar,India
+vi,Potukonda,Potukondavi,India
+karan,Kanur,Kannurkaran,India
+ian,Dibraghani,Dibrugarhian,India
+an,Kannamangalam,Kannamangalan,India
+ian,Halgur,Halagurian,India
+iya,Dholbaja,Dholbajiya,India
+i,Golakpur,Gorakhpuri,India
+i,Kharial,Khariali,India
+ian,Baghduma,Baghdumian,India
+i,Nisarpur,Nishapuri,India
+i,Bhagatpur,Bhagatpuri,India
+ite,Unao,Unnaoite,India
+iya,Chhapera,Chaprahiya,India
+i,Dharhwad,Dharwadi,India
+ean,Maddur,Maddurean,India
+kar,Ghat Borul,Ghatboralkar,India
+an,Malangam,Malangan,India
+ian,Navipet,Navipetian,India
+ian,Belhatti,Belhattian,India
+ite,Malaimarpuram,Malappuramite,India
