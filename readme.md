@@ -1,4 +1,6 @@
-Tools:
+## Tools:
+
+```bash
 pip install sentencepiece
 pip install transformers
 pip install datasets
@@ -11,25 +13,21 @@ pip install beautifulsoup4
 pip install requests
 pip install wandb
 pip install scikit-learn
+```
 
-
-Prerequisite:
+## Prerequisite:
 GPU (Otherwise T5 model training will be very slow.)
 wandb "account" replace with your account in t5_train.py file.
 
-Code files:
-
-Train:
-Run t5_train.py (To train the model)
-
-Datset pre-processing: 
+## Datset pre-processing: 
 pre-processing.ipynb
 
-Scrapping code:
+## Scrapping code:
 1) scrap.py  (use only wikipedia query)
 2) google_scrap.py (Use search + wikipedia query)
 
-Inference:
-t5inference.ipynb (replace the above trained model checkpoint path in code)
+## Train:
+Run python t5_train.py (To train the model)
 
-Training the model can take ~1 hr of times depending on the GPU.
+## Inference:
+t5inference.ipynb (replace the above trained model checkpoint path in code)
