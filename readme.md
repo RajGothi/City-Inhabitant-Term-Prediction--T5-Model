@@ -1,4 +1,4 @@
-## Problem statement
+## Problem:
 ![Alt text](problem_statement.png)
 ![Alt text](data_collection.png)
 
