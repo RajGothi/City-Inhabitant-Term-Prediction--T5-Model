@@ -31,3 +31,6 @@ Run python t5_train.py (To train the model)
 
 ## Inference:
 t5inference.ipynb (replace the above trained model checkpoint path in code)
+
+## PPT:
+NLP_ass1_presentation.pptx contains the overview of approach,results and analysis. 
