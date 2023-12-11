@@ -1,3 +1,7 @@
+## Problem statement
+![Alt text](problem_statement.png)
+![Alt text](data_collection.png)
+
 ## Tools:
 
 ```bash
