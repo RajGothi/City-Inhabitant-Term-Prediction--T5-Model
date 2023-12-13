@@ -23,7 +23,7 @@ pip install scikit-learn
 GPU (Otherwise T5 model training will be very slow.)
 wandb "account" replace with your account in t5_train.py file.
 
-## Datset pre-processing: 
+## Dataset pre-processing: 
 pre-processing.ipynb
 
 ## Scrapping code:
